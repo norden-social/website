@@ -1,18 +1,18 @@
 ---
 layout: page
-title: About
+title: Über uns
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Diese Seite dient dazu, etwas mehr von der Arbeit hinter den Kulissen der Mastodon-Instanz norden.social zu zeigen.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+## Wissenswertes
+Gegründet wurde die Instanz im August 2018 von Benny und Niklas.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Unser aktuelles Admin/Mod Team besteht aus:
+- [@fihu](https://norden.social/@fihu)
+- [@shortriver](https://norden.social/@shortriver)
+- [@mig](https://norden.social/@mig)
+- [@tofuknacker](https://norden.social/@tofuknacker)
+- [@benny](https://norden.social/@benny)
+- [@barning](https://norden.social/@barning)

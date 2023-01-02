@@ -27,10 +27,23 @@ description: >- # this means to ignore newlines until "baseurl:"
 # twitter_username: jekyllrb
 github_username:  norden-social
 
+author:
+  name: norden.social
+  email: moin@norden.social
+
 # Build settings
-theme: minima
+remote_theme: jekyll/minima
+
+show_excerpts: false # set to true to show excerpts on the homepage
+
+minima:
+  # generate social links in footer
+  social_links:
+      - { platform: github,         user_url: "https://github.com/norden-social" }
+
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.

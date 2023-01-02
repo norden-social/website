@@ -1,0 +1,10 @@
+---
+---
+
+@import
+  'minima/skins/{{ site.minima.skin | default: 'classic' }}',
+  "minima/initialize";
+
+.mascot {
+  max-width: 200px;
+}
