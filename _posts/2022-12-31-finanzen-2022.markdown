@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Finanzbericht 2022"
+categories: finanzen
+---
+Hier unser Finanzbericht für 2022.
+
+Der Finanzbericht für norden.social zeigt, dass im vergangenen Jahr Einnahmen in Höhe von 6933€ erzielt wurden. Diese Einnahmen resultierten aus Spenden und Unterstützung durch die Community. Im Gegensatz dazu lagen die Ausgaben bei 1391€.
+
+Während des Jahres gab es einige Monate, in denen keine Einnahmen generiert wurden, darunter Februar, August und September. Diese Monate wurden jedoch durch Unterstützung in anderen Monaten ausgeglichen, darunter ganz besonders Mai mit 624€, Oktober mit 465€, November mit 3224€ und Dezember mit 1152€.
+
+Am 31.12.2022 liegen 5542€ auf unserem Konto.
+
+Insgesamt betrachtet hat norden.social ein positives Finanzierungsergebnis erzielt und konnte dank der Unterstützung der Community ihre Ausgaben decken und hat nun einen großen finanziellen Puffer für das nächste Jahr.
+
+Eine übersicht über unsere Finanzen findet ihr auf der entsprechenden [Unterseite](/finanzielles).

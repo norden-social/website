@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Finanzielles
 permalink: /finanzielles/
 ---
@@ -21,3 +20,10 @@ Unsere Monatlichen ausgaben sind also ~180€ im Monat.
 Natürlich auch über [Paypal](https://paypal.me/nordensocial) und [Liberapay](https://liberapay.com/norden.social">Liberapay)
 
 **Finanzielle Zuwendungen in Form von Spenden sind freiwillig, nicht erstattbar und werden ordnungsgemäß als Einnahme versteuert. Nach §516 BGB handelt es sich um Schenkungen.**
+
+## Alle Posts über unsere Finanzen
+Hier findest eine Liste von Posts, wo wir über unsere Finanzen, oder einfach nur den Monatsbericht schreiben.
+
+{% for post in site.categories.finanzen %}
+ <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
