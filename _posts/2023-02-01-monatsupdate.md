@@ -4,9 +4,9 @@ title:  "Update Februar 2023"
 categories: update
 ---
 
-Hallo Mitglieder von norden.social,
+Hallo Mitglieder von norden.social, zeit für einen Blick auf den vergangenen Monat.
 
-diesen Monat ist die Zahl von aktiven Usern um 15% geschrumpft. Das war zu erwarten, da es die letzten Monate viel Wirbel um Mastodon gab und viele sicher "nur mal so" vorbeigeschaut haben. Zur Info: Nach 6 Monaten Inaktivität bekommen Accounts von uns eine Mail, dass wir sie aus unserem System entfernen werden.
+Letzten Monat ist die Zahl von aktiven Usern um 15% geschrumpft. Das war zu erwarten, da es die letzten Monate viel Wirbel um Mastodon gab und viele sicher "nur mal so" vorbeigeschaut haben. Zur Info: Nach 6 Monaten Inaktivität bekommen Accounts von uns eine Mail, dass wir sie aus unserem System entfernen werden.
 
 Außerdem haben wir eine Umfrage gestartet, um zu erfahren, ob Interesse an einem Matrix-Server von norden.social besteht. Das Ergebnis war nicht überraschend.
 
