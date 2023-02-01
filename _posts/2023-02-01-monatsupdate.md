@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Infoseite über norden.social gestartet!"
-categories: monatsupdate
+title:  "Update Februar 2023"
+categories: update
 ---
 
 Hallo Mitglieder von norden.social,
