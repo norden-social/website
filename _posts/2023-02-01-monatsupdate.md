@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Infoseite über norden.social gestartet!"
+categories: monatsupdate
+---
+
 Hallo Mitglieder von norden.social,
 
 diesen Monat ist die Zahl von aktiven Usern um 15% geschrumpft. Das war zu erwarten, da es die letzten Monate viel Wirbel um Mastodon gab und viele sicher "nur mal so" vorbeigeschaut haben. Zur Info: Nach 6 Monaten Inaktivität bekommen Accounts von uns eine Mail, dass wir sie aus unserem System entfernen werden.
