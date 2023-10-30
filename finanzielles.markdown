@@ -19,7 +19,7 @@ Unsere Monatlichen ausgaben sind also ~235€ im Monat.
     BIC NTSBDEB1XXX
     Verwendungszweck: nordensocial
 
-Natürlich auch über [Paypal](https://paypal.me/nordensocial) und [Liberapay](https://liberapay.com/norden.social)
+Natürlich auch über [Paypal](https://paypal.me/nordensocial) und [Liberapay](https://liberapay.com/norden.social) <img src="https://img.shields.io/liberapay/patrons/norden.social.svg?logo=liberapay">
 
 **Finanzielle Zuwendungen in Form von Spenden sind freiwillig, nicht erstattbar und werden ordnungsgemäß als Einnahme versteuert. Nach §516 BGB handelt es sich um Schenkungen.**
 
