@@ -6,11 +6,10 @@ permalink: /verein/
 * Do not remove this line (it will not be displayed)
 {:toc}
 
-## Fördermitglied werden
-Du hast Interesse diesen Verein ganz offiziell zu unterstützen? Dann hast du bei uns die Möglichkeit ein Fördermitglied zu werden. Die Mitgliedschaft kannst du bei uns ganz einfach über diesen Link online beantragen.
+<!-- ## Fördermitglied werden
+Du hast Interesse diesen Verein ganz offiziell zu unterstützen? Dann hast du bei uns die Möglichkeit ein Fördermitglied zu werden. Die Mitgliedschaft kannst du bei uns ganz einfach über diesen Link online beantragen. -->
 
 ## Vorstand
-Auf der Gründungsversammlung am 12.12.2023 wurde der folgende Vorstand durch die Mitgliedsversammlung gewählt:
 - Erstes Vorstandsmitglied: Niklas Barning
 - Zweites Vorstandsmitglied: Benedikt Windolph
 - Kassenwart: Michael Grandjean
@@ -25,28 +24,36 @@ Auf der Gründungsversammlung am 12.12.2023 wurde der folgende Vorstand durch di
 ### § 2 Zweck des Vereins
 
 1. Zweck des Vereins ist
-   1. der Aufbau, die Unterhaltung und Bereitstellung von dezentralen sozialen Medien mit Open Source Software, insbesondere mit Fokus auf Norddeutschland.
-   2. der Aufbau und die Unterhaltung von Bildungsmaßnahmen zu Digitalisierung, Datenschutz und sozialen Netzwerken, insbesondere zu Open Source Software und dezentralisierten sozialen Netzwerken, für die interessierte Fachöffentlichkeit und die Allgemeinheit, etwa durch Vorträge, Workshops und das Bereitstellen eines geeigneten Informationsangebots in unterschiedlichen medialen Formaten.
-   3. der Aufbau und die Unterhaltung von Bildungsmaßnahmen zu Sicherheit und Kommunikation in den Sozialen Medien, etwa Lernangebote zu Dynamiken der Kommunikation in den sozialen Medien und zu Interventionsmöglichkeiten gegen digitale Gewalt.
+  1. der Aufbau, die Unterhaltung und Bereitstellung von dezentralen sozialen Medien mit Open Source Software, insbesondere mit Fokus auf Norddeutschland.
+  2. der Aufbau und die Unterhaltung von Bildungsmaßnahmen zu Digitalisierung, Datenschutz und sozialen Netzwerken, insbesondere zu Open Source Software und dezentralisierten sozialen Netzwerken, für die interessierte Fachöffentlichkeit und die Allgemeinheit, etwa durch Vorträge, Workshops und das Bereitstellen eines geeigneten Informationsangebots in unterschiedlichen medialen Formaten.
+  3. der Aufbau und die Unterhaltung von Bildungsmaßnahmen zu Sicherheit und Kommunikation in den Sozialen Medien, etwa Lernangebote zu Dynamiken der Kommunikation in den sozialen Medien und zu Interventionsmöglichkeiten gegen digitale Gewalt.
 2. Der Verein ist parteipolitisch und konfessionell unabhängig.
 3. Der Verein kann Gesellschaften und Unternehmen gründen, erwerben, sich an solchen beteiligen, sie wieder liquidieren sowie Kooperationen eingehen.
 
 ### § 3 Mitgliedschaft
 
 1. Ordentliches Mitglied des Vereins können natürliche Personen, juristische Personen und Personenvereinigungen werden. Die Aufnahme erfolgt durch Beschluss des Vorstandes. Dieser entscheidet über die Aufnahme abschließend. Insbesondere ist er berechtigt Aufnahmen zurückzustellen, wenn die Kapazitäten des Vereins ausgelastet sind.
-2. Daneben hat der Verein Fördermitglieder. Ein Stimmrecht ist mit der Fördermitgliedschaft nicht verbunden.
-3. Personen, die sich um den Verein oder um die vom Verein verfolgten, steuerbegünstigten Zwecke in außergewöhnlicher Weise verdient gemacht haben, kann die Mitgliederversammlung auf Vorschlag des Vorstandes zu Ehrenmitgliedern ernennen. Sie haben die Rechte der ordentlichen Mitglieder, sind jedoch von der Zahlung des Mitgliedsbeitrags befreit.
-4. Die Mitgliedschaft endet durch
-   1. Austritt zum Ende eines Kalenderjahres, welcher mit einer Frist von drei Monaten dem Vorstand gegenüber schriftlich zu erklären ist,
-   2. Bei Auflösung oder Aufhebung von Mitgliedern, bei denen es sich um juristische Personen oder Personenvereinigungen handelt,
-   3. Bei Tod, sofern es sich bei dem Mitglied um eine natürliche Person handelt,
-   4. Durch Ausschluss aufgrund Vorstandsbeschlusses nach vorheriger Anhörung aus wichtigem Grund und Bekanntgabe des Beschlusses an den Betroffenen. Als wichtige Gründe in diesem Sinne zählen insbesondere schwerwiegende Pflichtverstöße gegen die Interessen und/ oder Ziele des Vereins.
-5. Über den Ausschluss aus dem Verein entscheidet der Vorstand nach vorheriger Anhörung des betroffenen Mitglieds. Der Ausschlussbeschluss ist dem Mitglied schriftlich bekannt zu geben. Gegen diesen Beschluss kann das ausgeschlossene Mitglied innerhalb 6 Wochen nach Bekanntgabe Einspruch erheben, über welchen die nächste Mitgliederversammlung entscheidet.
-6. Eine Streichung von der Mitgliederliste durch den Vorstand erfolgt unter folgenden Voraussetzungen:
-   1. Nichtzahlung des fälligen Beitrags, trotz fälligen Beitrags, trotz Fälligkeit und Mahnung mit Fristsetzung.
-   2. Mehrmalige Nichterreichbarkeit des Mitglieds unter der dem Verein bekannten Adresse.
-7. Mitglieder sind zur Zahlung eines Mitgliedsbeitrags gemäß der von der Mitgliederversammlung beschlossenen Beitragsordnung verpflichtet. Eine Beitragsstaffelung oder -befreiung ist zulässig. Die Beitragsordnung soll die Fälligkeit des Mitgliedsbeitrags festlegen.
-8. Den Gründungsmitgliedern stehen Sonderrechte im Sinne von § 35 BGB zu, und zwar in Bezug auf Satzungsänderungen, Satzungszweckänderungen, die Auflösung des Vereins sowie die vorzeitige Abberufung des Vorstands. Durch Erklärung gegenüber dem Vorstand können die einzelnen Gründungsmitglieder auf die vorstehenden Sonderrechte verzichten.
+
+1. Daneben hat der Verein Fördermitglieder. Ein Stimmrecht ist mit der Fördermitgliedschaft nicht verbunden.
+2. Personen, die sich um den Verein oder um die vom Verein verfolgten, steuerbegünstigten Zwecke in außergewöhnlicher Weise verdient gemacht haben, kann die Mitgliederversammlung auf Vorschlag des Vorstandes zu Ehrenmitgliedern ernennen. Sie haben die Rechte der ordentlichen Mitglieder, sind jedoch von der Zahlung des Mitgliedsbeitrags befreit.
+3. Die Mitgliedschaft endet durch
+
+  1. Austritt zum Ende eines Kalenderjahres, welcher mit einer Frist von drei Monaten dem Vorstand gegenüber schriftlich zu erklären ist,
+  2. Bei Auflösung oder Aufhebung von Mitgliedern, bei denen es sich um juristische Personen oder Personenvereinigungen handelt,
+  3. Bei Tod, sofern es sich bei dem Mitglied um eine natürliche Person handelt,
+
+  1. Durch Ausschluss aufgrund Vorstandsbeschlusses nach vorheriger Anhörung aus wichtigem Grund und Bekanntgabe des Beschlusses an den Betroffenen. Als wichtige Gründe in diesem Sinne zählen insbesondere schwerwiegende Pflichtverstöße gegen die Interessen und/ oder Ziele des Vereins.
+
+1. Über den Ausschluss aus dem Verein entscheidet der Vorstand nach vorheriger Anhörung des betroffenen Mitglieds. Der Ausschlussbeschluss ist dem Mitglied schriftlich bekannt zu geben. Gegen diesen Beschluss kann das ausgeschlossene Mitglied innerhalb 6 Wochen nach Bekanntgabe Einspruch erheben, über welchen die nächste Mitgliederversammlung entscheidet.
+
+1. Eine Streichung von der Mitgliederliste durch den Vorstand erfolgt unter folgenden Voraussetzungen:
+
+1. Nichtzahlung des fälligen Beitrags, trotz fälligen Beitrags, trotz Fälligkeit und Mahnung mit Fristsetzung.
+2. Mehrmalige Nichterreichbarkeit des Mitglieds unter der dem Verein bekannten Adresse.
+
+1. Mitglieder sind zur Zahlung eines Mitgliedsbeitrags gemäß der von der Mitgliederversammlung beschlossenen Beitragsordnung verpflichtet. Eine Beitragsstaffelung oder -befreiung ist zulässig. Die Beitragsordnung soll die Fälligkeit des Mitgliedsbeitrags festlegen.
+
+1. Den Gründungsmitgliedern stehen Sonderrechte im Sinne von § 35 BGB zu, und zwar in Bezug auf Satzungsänderungen, Satzungszweckänderungen, die Auflösung des Vereins sowie die vorzeitige Abberufung des Vorstands. Durch Erklärung gegenüber dem Vorstand können die einzelnen Gründungsmitglieder auf die vorstehenden Sonderrechte verzichten.
 
 ### § 5 Organe des Vereins
 
@@ -55,20 +62,23 @@ Organe des Vereins sind die Mitgliederversammlung, der Vorstand sowie ein etwaig
 ### § 6 Mitgliederversammlung
 
 1. Die Mitgliederversammlung ist zuständig für folgende Angelegenheiten:
-   1. Die Wahl der Vorstandsmitglieder,
-   2. Beschlussfassung über Satzungsänderungen, Mitgliedsbeiträge und die Auflösung des Vereins,
-   3. Entgegennahme des Jahresberichtes des Vorstandes und des Rechnungsberichtes,
-   4. Entlastung des Vorstandes,
-   5. Entscheidung über Einsprüche ausgeschlossener Mitglieder,
-   6. alle ihr sonstig nach dieser Satzung zugewiesenen Aufgaben.
-2. Die Mitgliederversammlung ist mindestens einmal jährlich unter Einhaltung einer Ladungsfrist von mindestens zwei Wochen und unter Mitteilung der Tagesordnung schriftlich oder per E-Mail an die zuletzt hinterlegte Adresse vom Vorstand einzuberufen. Die Tagesordnung setzt der Vorstand fest. Jede ordnungsgemäß einberufene Mitgliederversammlung ist beschlussfähig.
-3. Auf schriftliches Verlangen von mindestens einem Zehntel der Mitglieder ist innerhalb von 6 Wochen eine Mitgliederversammlung einzuberufen, in der Zweck und Grund dargelegt werden müssen.
-4. Die Mitgliederversammlung fasst Beschlüsse mit einfacher Mehrheit. Eine Übertragung des Stimmrechts auf ein anderes Mitglied ist zulässig und von diesem durch schriftliche Vollmacht nachzuweisen.
-5. Die Mitgliederversammlung ist nicht öffentlich. Über die Zulassung von Gästen entscheidet der Vorstand.
-6. Die Mitgliederversammlung kann als Präsenzversammlung oder als virtuelle Mitgliederversammlung durchgeführt werden. Bei einer Präsenzversammlung treffen sich alle Teilnehmer der Mitgliederversammlung an einem gemeinsamen, vom Vorstand bestimmten Ort. Eine virtuelle Mitgliederversammlung findet durch Einwahl aller Teilnehmer der Mitgliederversammlung in eine Video- oder Telefonkonferenz statt. Ob die Mitgliederversammlung als Präsenzversammlung oder in virtueller Form stattfindet, entscheidet der Vorstand nach freiem Ermessen. In der Einladung zur Mitgliederversammlung teilt er die Form der Mitgliederversammlung mit. Lädt der Vorstand zu einer virtuellen Mitgliederversammlung ein, teilt er den Mitgliedern spätestens eine Stunde vor der Mitgliederversammlung per E-Mail die Einwahldaten für die Video- oder Telefonkonferenz mit. Bei virtuellen Mitgliederversammlungen werden alle Beschlüsse im Wege der offenen Abstimmung gefasst.
-7. Wenn es von mindestens einem Drittel der Mitglieder gewünscht wird, muss über Beschlüsse der Mitgliederversammlung geheim abgestimmt werden, soweit diese Satzung nicht – insbesondere für virtuelle Versammlungen – etwas anderes bestimmt.
-8. Den Vorsitz in der Mitgliederversammlung führt eines der Vorstandsmitglieder. Die Versammlungsleitung wird von den Vorstandsmitgliedern aus eigenen Reihen bestimmt. Bei Verhinderung aller Vorstandsmitglieder wählen die Mitglieder eine Versammlungsleitung.
-9. Über den Verlauf der Mitgliederversammlung ist eine Niederschrift aufzunehmen, die von einem Vorstandsmitglied und der Schriftführung zu unterzeichnen ist. Beschlüsse sind zu protokollieren.
+
+1. Die Wahl der Vorstandsmitglieder,
+2. Beschlussfassung über Satzungsänderungen, Mitgliedsbeiträge und die Auflösung des Vereins,
+3. Entgegennahme des Jahresberichtes des Vorstandes und des Rechnungsberichtes,
+4. Entlastung des Vorstandes,
+5. Entscheidung über Einsprüche ausgeschlossener Mitglieder,
+6. alle ihr sonstig nach dieser Satzung zugewiesenen Aufgaben.
+
+1. Die Mitgliederversammlung ist mindestens einmal jährlich unter Einhaltung einer Ladungsfrist von mindestens zwei Wochen und unter Mitteilung der Tagesordnung schriftlich oder per E-Mail an die zuletzt hinterlegte Adresse vom Vorstand einzuberufen. Die Tagesordnung setzt der Vorstand fest. Jede ordnungsgemäß einberufene Mitgliederversammlung ist beschlussfähig.
+
+1. Auf schriftliches Verlangen von mindestens einem Zehntel der Mitglieder ist innerhalb von 6 Wochen eine Mitgliederversammlung einzuberufen, in der Zweck und Grund dargelegt werden müssen.
+2. Die Mitgliederversammlung fasst Beschlüsse mit einfacher Mehrheit. Eine Übertragung des Stimmrechts auf ein anderes Mitglied ist zulässig und von diesem durch schriftliche Vollmacht nachzuweisen.
+3. Die Mitgliederversammlung ist nicht öffentlich. Über die Zulassung von Gästen entscheidet der Vorstand.
+4. Die Mitgliederversammlung kann als Präsenzversammlung oder als virtuelle Mitgliederversammlung durchgeführt werden. Bei einer Präsenzversammlung treffen sich alle Teilnehmer der Mitgliederversammlung an einem gemeinsamen, vom Vorstand bestimmten Ort. Eine virtuelle Mitgliederversammlung findet durch Einwahl aller Teilnehmer der Mitgliederversammlung in eine Video- oder Telefonkonferenz statt. Ob die Mitgliederversammlung als Präsenzversammlung oder in virtueller Form stattfindet, entscheidet der Vorstand nach freiem Ermessen. In der Einladung zur Mitgliederversammlung teilt er die Form der Mitgliederversammlung mit. Lädt der Vorstand zu einer virtuellen Mitgliederversammlung ein, teilt er den Mitgliedern spätestens eine Stunde vor der Mitgliederversammlung per E-Mail die Einwahldaten für die Video- oder Telefonkonferenz mit. Bei virtuellen Mitgliederversammlungen werden alle Beschlüsse im Wege der offenen Abstimmung gefasst.
+5. Wenn es von mindestens einem Drittel der Mitglieder gewünscht wird, muss über Beschlüsse der Mitgliederversammlung geheim abgestimmt werden, soweit diese Satzung nicht – insbesondere für virtuelle Versammlungen – etwas anderes bestimmt.
+6. Den Vorsitz in der Mitgliederversammlung führt eines der Vorstandsmitglieder. Die Versammlungsleitung wird von den Vorstandsmitgliedern aus eigenen Reihen bestimmt. Bei Verhinderung aller Vorstandsmitglieder wählen die Mitglieder eine Versammlungsleitung.
+7. Über den Verlauf der Mitgliederversammlung ist eine Niederschrift aufzunehmen, die von einem Vorstandsmitglied und der Schriftführung zu unterzeichnen ist. Beschlüsse sind zu protokollieren.
 
 ### § 7 Vorstand
 
