@@ -20,7 +20,7 @@ Das bedeutet manchmal, dass in einem Profil sehr viele automatisierte Posts nach
 
 Darum möchten wir, dass solche automatisierten Postings nur mit der "ungelisteten" Sichtbarkeit veröffentlicht werden - dadurch erscheinen sie in deinem Profil, aber nicht in unserer öffentlichen Timeline. In den persönlichen Timelines von dir und deinen Followern erscheinen die Posts aber trotzdem.
 
-> [Mehr zur Sichtbarkeit von Posts (nur auf Englisch)](https://docs.joinmastodon.org/user/posting/#privacy)
+> {% octicon book height:24 class:"left" aria-label:documentation %} [Mehr zur Sichtbarkeit von Posts im offiziellen Mastodon-Handbuch (nur auf Englisch)](https://docs.joinmastodon.org/user/posting/#privacy)
 
 ### <a name="bot"></a>Kann ich auf norden.social einen Bot betreiben?
 Ja, allerdings muss der Account wie folgt eingestellt sein:
