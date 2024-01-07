@@ -38,4 +38,5 @@ gem "github-pages", "~> 227", group: :jekyll_plugins
 gem "webrick", "~> 1.7"
 
 # Octicons is a plugin to get embeddable icons
+# see https://primer.style/foundations/icons for searchable list
 gem 'jekyll-octicons'
