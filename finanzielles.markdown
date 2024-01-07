@@ -14,14 +14,10 @@ Wofür wir Geld ausgeben:
 Unsere Monatlichen ausgaben sind also ~235€ im Monat.
 
 ## Unser Topf im Internet:
-    Niklas Barning
-    IBAN DE08100110012625 380912
-    BIC NTSBDEB1XXX
-    Verwendungszweck: nordensocial
+    _Überweisungen per IBAN nehmen wir im Moment nicht an_.
 
 Natürlich auch über [Paypal](https://paypal.me/nordensocial) und [Liberapay](https://liberapay.com/norden.social) <img src="https://img.shields.io/liberapay/patrons/norden.social.svg?logo=liberapay">
 
-**Finanzielle Zuwendungen in Form von Spenden sind freiwillig, nicht erstattbar und werden ordnungsgemäß als Einnahme versteuert. Nach §516 BGB handelt es sich um Schenkungen.**
 
 ## Alle Posts über unsere Finanzen
 Hier findest eine Liste von Posts, wo wir über unsere Finanzen, oder einfach nur den Monatsbericht schreiben.
