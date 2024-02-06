@@ -18,7 +18,7 @@ All das, ohne direkt deine Mastodon-App zu benutzen oder per Browser auf norden.
 
 Das bedeutet manchmal, dass in einem Profil sehr viele automatisierte Posts nacheinander stehen - das ist für deine Freunde vielleicht interessant, aber nicht unbedingt für alle Anderen. Und es kann dazu führen, dass du dich vornehmlich in den anderen Apps aufhältst und nicht bemerkst, wenn andere Leute auf deine Erfolge, Kleinanzeigen oder Lieblingssong reagieren und deine Posts kommentieren.
 
-Darum möchten wir, dass solche automatisierten Postings nur mit der "ungelisteten" Sichtbarkeit veröffentlicht werden - dadurch erscheinen sie in deinem Profil, aber nicht in unserer öffentlichen Timeline. In den persönlichen Timelines von dir und deinen Followern erscheinen die Posts aber trotzdem.
+Darum möchten wir, dass solche automatisierten Postings nur mit der "ungelisteten" Sichtbarkeit veröffentlicht werden - dadurch erscheinen sie in deinem Profil, aber nicht in unserer öffentlichen Timeline. In den persönlichen Timelines von dir und deinen Follower*innen erscheinen die Posts aber trotzdem.
 
 > {% octicon book height:24 class:"left" aria-label:documentation %} [Mehr zur Sichtbarkeit von Posts im offiziellen Mastodon-Handbuch (nur auf Englisch)](https://docs.joinmastodon.org/user/posting/#privacy)
 
