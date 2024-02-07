@@ -6,7 +6,7 @@ categories: verein
 Eigentlich hatten wir geplant, den Jahresrückblick zu verfassen, sobald alle derzeit noch laufenden Projekte abgeschlossen wären. Nun ist bereits der Februar angebrochen, und es herrschte eine zu lange Stille.
 
 ## Finanzen
-Kurz und bündig: Wir haben das Jahr mit einem Gewinn von XXX€ abgeschlossen und stehen finanziell weiterhin sehr solide da. Es war uns sogar möglich, zusätzliche Investitionen zu tätigen - nähere Details dazu folgen in Kürze.
+Kurz und bündig: Wir haben das Jahr mit einem Gewinn von ~2500€ abgeschlossen und stehen finanziell weiterhin sehr solide da. Es war uns sogar möglich, zusätzliche Investitionen zu tätigen - nähere Details dazu folgen in Kürze.
 
 ## Die Instanz
 Das Jahr begann mit einem Aufschwung, der durch Twitter/X ermöglicht wurde. Daher ist es nicht verwunderlich, dass wir in den Statistiken bezüglich der aktiven Accounts einen allmählichen Rückgang verzeichnen. Dennoch nutzen wöchentlich mehr als 3000 Personen unsere Instanz. Angesichts der Tatsache, dass wir keine spezifischen Marketingaktivitäten betreiben, sind diese Ergebnisse im sechsten Jahr unseres Bestehens äußerst positiv.
