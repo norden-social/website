@@ -4,10 +4,10 @@ title: Fragen & Antworten
 permalink: /faq/
 ---
 
-1. [Was bedeutet die Regel zu "Automatisierten Beiträgen"?](#automatisiert)
-1. [Kann ich auf norden.social einen Bot betreiben?](#bot)
+* Do not remove this line (it will not be displayed)
+{:toc}
 
-### <a name="automatisiert"></a>Was bedeutet die Regel zu "Automatisierten Beiträgen"?
+## Was bedeutet die Regel zu "Automatisierten Beiträgen"?
 Unsere Serverregel Nr. 5 lautet:
 > Automatisierte Beiträge sollten als "Nicht gelistet" gepostet werden (d. h. sie sind sichtbar, aber nicht in der lokalen Zeitleiste). Dies gilt auch für Bots, Feed-Poster, Twitter-"Retweets" und Twitter-Crossposts. Crossposter-Konten, die sich nicht aktiv beteiligen, können von uns entfernt werden.
 
@@ -22,10 +22,20 @@ Darum möchten wir, dass solche automatisierten Postings nur mit der "ungelistet
 
 > {% octicon book height:24 class:"left" aria-label:documentation %} [Mehr zur Sichtbarkeit von Posts im offiziellen Mastodon-Handbuch (nur auf Englisch)](https://docs.joinmastodon.org/user/posting/#privacy)
 
-### <a name="bot"></a>Kann ich auf norden.social einen Bot betreiben?
+## Kann ich auf norden.social einen Bot betreiben?
 Ja, allerdings muss der Account wie folgt eingestellt sein:
 * im Profil muss eine verantwortliche Person genannt werden.
 * das Profil muss als "Bot" oder "automatisierter Account" gekennzeichnet werden. Das geht in den Profileinstellungen.
 * nach Serverregel 5 darf ein Bot nur "Ungelistet" posten.
 
 Natürlich muss sich ein Bot auch an die Serverregeln halten.
+
+## Könnt ihr meinen gelöschten Account reaktivieren?
+Wenn du deinen Account löschst, ist das endgültig. Beim Löschvorgang haben wir dich darauf hingewiesen, dass dieser Schritt nicht rückgängig gemacht werden kann. Dein Benutzername wird außerdem geschützt, damit niemand anders ihn verwenden und sich als du ausgeben kann. Es gibt noch andere Gründe, die mit der Funktionsweise von Mastodon zusammenhängen, weshalb eine Wiederherstellung nicht möglich ist, aber das würde hier den Rahmen sprengen.
+
+## Kann ich meinen Benutzernamen ändern lassen?
+Leider ist es aus technischen Gründen nicht möglich, deinen Benutzernamen direkt zu ändern. Die einzige Option ist, einen neuen Account zu erstellen. Wenn du umziehen möchtest, haben wir eine [Anleitung, wie du zu einem neuen Account wechseln kannst](https://netzpolitik.org/2022/anleitung-umziehen-auf-eine-andere-mastodon-instanz-so-einfach-gehts/).
+
+
+## Ich habe Probleme mit der Zwei-Faktor-Authentifizierung (2FA)
+Bitte schicke uns eine E-Mail von der Adresse, die mit deinem Account und der 2FA verknüpft ist. Füge auch ein paar Informationen über dich hinzu, damit wir überprüfen können, ob du der rechtmäßige Besitzer bist. Normalerweise können wir dann deinen Zugang zurücksetzen.
