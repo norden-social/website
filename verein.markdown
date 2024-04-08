@@ -80,7 +80,8 @@ Organe des Vereins sind die Mitgliederversammlung, der Vorstand sowie ein etwaig
 
 ### § 7 Vorstand
 
-1. Der Vorstand besteht aus bis zu fünf natürlichen Personen, die den Verein führen. Vorstand, Vorstandsvertretung und Kassenwart. Die Amtszeit des Vorstands beträgt zwei Jahre. Nach Ende der Amtszeit bleibt der Vorstand so lange im Amt, bis ein neuer Vorstand gewählt wurde. Die Vorstandsmitglieder werden mit ¾ Mehrheit von der Mitgliedersammlung gewählt und abberufen.
+1. Der Vorstand besteht aus dem Vorstand, Vorstandsvertretung und dem Kassenwart. Die Amtszeit des
+Vorstands beträgt zwei Jahre. Die Amtszeit des Vorstands beträgt zwei Jahre. Nach Ende der Amtszeit bleibt der Vorstand so lange im Amt, bis ein neuer Vorstand gewählt wurde. Die Vorstandsmitglieder werden mit ¾ Mehrheit von der Mitgliedersammlung gewählt und abberufen.
 2. Bei den Vorstandsmitgliedern handelt es sich um den Vorstand im Sinne von § 26 BGB. Sie vertreten den Verein gerichtlich und außergerichtlich. Die Vorstandsmitglieder sind stets einzeln zur Vertretung des Vereins berechtigt.
 3. Der Vorstand leitet den Verein in dem ihm zustehenden gesetzlichen und satzungsmäßigen Rahmen frei und eigenverantwortlich. Zu den Aufgaben des Vorstands gehört auch die Festlegung der langfristigen strategischen Ausrichtung des Vereins.
 4. Der Vorstand tagt so oft, wie es das Interesse des Vereins verlangt. Eine Tagung per Telefon- oder Videokonferenz ist zulässig. Per Telefon- oder Videokonferenz können zudem einzelne Vorstandsmitglieder zugeschaltet werden. Diese stehen in Bezug auf Beschlussfähigkeit und Beschlussfassung anwesenden Vorstandsmitgliedern gleich.
