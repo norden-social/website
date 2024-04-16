@@ -3,11 +3,7 @@
 let profiles = document.querySelectorAll('.profiles li');
 
 profiles.forEach(profile => {
-    const img = new Image();
-    const user = getUser(profile.innerText);
-    console.log(user);
-    // img.src = user.image;
-    // profile.prepend(img);
+    manageUser(profile)
 });
 
 /*
@@ -60,12 +56,13 @@ fetch('https://norden.social/@leuchtturm.rss').then(response => response.text())
 
 });
 
-function getUser(userName) {
+function manageUser(listElement) {
+    const userName = listElement.innerText
     let user = userName.replace('@','');
     const url = `https://norden.social/api/v2/search?q=${user}&limit=40&type=accounts`;
     let userid;
 
-    let userInfo = {}
+    let imageURL;
 
     fetch(url).then(request => request.json()).then(data => {
 
@@ -78,12 +75,14 @@ function getUser(userName) {
         } else {
             userid = accounts[0].id;
             fetch(`https://norden.social/api/v1/accounts/${userid}`).then(request => request.json()).then(data => {
-                userInfo.image = data.avatar;
-                userInfo.info = data.note
+                let img = new Image();
+                img.src = data.avatar
+
+                
+
+                listElement.prepend(img);
+
             }).catch(console.error('Keine Info gefunden'))
         }
-
     }).catch(console.error('Kein Account gefunden'))
-
-    return userInfo;
 }
