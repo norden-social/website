@@ -13,6 +13,11 @@ fetch('https://norden.social/@leuchtturm.rss').then(response => response.text())
 
     let placeContent = document.getElementById('mastofeed');
 
+    fetch("https://norden.social/api/v1/accounts/lookup?acct=leuchtturm").then(request => request.json()).then(data => {
+        let img = document.getElementById('mastoavatar');
+        img.src = data.avatar;
+    })
+
     data.querySelectorAll('item').forEach(toot => {
         let description = toot.querySelector('description');
 
@@ -59,30 +64,15 @@ fetch('https://norden.social/@leuchtturm.rss').then(response => response.text())
 function manageUser(listElement) {
     const userName = listElement.innerText
     let user = userName.replace('@','');
-    const url = `https://norden.social/api/v2/search?q=${user}&limit=40&type=accounts`;
+    const url = `https://norden.social/api/v1/accounts/lookup?acct=${user}`;
     let userid;
 
     let imageURL;
 
     fetch(url).then(request => request.json()).then(data => {
+        let img = new Image();
+        img.src = data.avatar
 
-        let accounts = data['accounts'].filter(item => {
-            return item.url == `https://norden.social/${userName}`
-        });
-
-        if (accounts.length != 1) {
-            return false;
-        } else {
-            userid = accounts[0].id;
-            fetch(`https://norden.social/api/v1/accounts/${userid}`).then(request => request.json()).then(data => {
-                let img = new Image();
-                img.src = data.avatar
-
-                
-
-                listElement.prepend(img);
-
-            }).catch(console.error('Keine Info gefunden'))
-        }
-    }).catch(console.error('Kein Account gefunden'))
+        listElement.prepend(img);
+    })
 }
