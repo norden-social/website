@@ -13,5 +13,11 @@
 
 #mastoavatar {
     max-width: 100px;
+    height: auto;
+    width: 100%;
     border-radius: 50%;
+}
+
+.adminabout {
+    display: flex;
 }

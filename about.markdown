@@ -10,15 +10,22 @@ Diese Seite dient dazu, etwas mehr von der Arbeit hinter den Kulissen der Mastod
 Gegründet wurde die Instanz im August 2018 von Benny und Niklas.
 
 Unser aktuelles Admin/Mod Team besteht aus:
-- [@fihu](https://norden.social/@fihu)
-- [@shortriver](https://norden.social/@shortriver)
-- [@mig](https://norden.social/@mig)
-- [@tofuknacker](https://norden.social/@tofuknacker)
-- [@benny](https://norden.social/@benny)
-- [@barning](https://norden.social/@barning)
+<ul class="profiles">
+    <li><a href="https://norden.social/@fihu">@fihu</a></li>
+    <li><a href="https://norden.social/@shortriver">@shortriver</a></li>
+    <li><a href="https://norden.social/@mig">@mig</a></li>
+    <li><a href="https://norden.social/@tofuknacker">@tofuknacker</a></li>
+    <li><a href="https://norden.social/@benny">@benny</a></li>
+    <li><a href="https://norden.social/@barning">@barning</a></li>
+</ul>
 
-<h3>Leuchtturm - Feed</h3>
-<img id="mastoavatar" src="" alt="Leuchtturm Avatar">
+
+<div class="adminabout">
+    <img id="mastoavatar" src="" alt="Leuchtturm Avatar">
+    <div class="admincontent">
+        <h3>Leuchtturm - Feed</h3>
+    </div>
+</div>
 
 <div id="mastofeed"></div>
 <script src="/assets/js/mastofeed.js"></script>

@@ -1,15 +1,21 @@
 "use strict";
 
+let profiles = document.querySelectorAll('.profiles li');
+
+profiles.forEach(profile => {
+    const img = new Image();
+    const user = getUser(profile.innerText);
+    console.log(user);
+    // img.src = user.image;
+    // profile.prepend(img);
+});
+
+/*
+    Create RSS Feed from Leuchtturm
+*/
 fetch('https://norden.social/@leuchtturm.rss').then(response => response.text()).then(text => new DOMParser().parseFromString(text, 'text/xml')).then(data => {
 
     let placeContent = document.getElementById('mastofeed');
-
-    if (data.querySelector('image')) {
-        let image = data.querySelector('image');        
-        let avatar = document.getElementById('mastoavatar');
-        
-        avatar.src = image.querySelector('url').innerHTML
-    }
 
     data.querySelectorAll('item').forEach(toot => {
         let description = toot.querySelector('description');
@@ -53,3 +59,31 @@ fetch('https://norden.social/@leuchtturm.rss').then(response => response.text())
     })
 
 });
+
+function getUser(userName) {
+    let user = userName.replace('@','');
+    const url = `https://norden.social/api/v2/search?q=${user}&limit=40&type=accounts`;
+    let userid;
+
+    let userInfo = {}
+
+    fetch(url).then(request => request.json()).then(data => {
+
+        let accounts = data['accounts'].filter(item => {
+            return item.url == `https://norden.social/${userName}`
+        });
+
+        if (accounts.length != 1) {
+            return false;
+        } else {
+            userid = accounts[0].id;
+            fetch(`https://norden.social/api/v1/accounts/${userid}`).then(request => request.json()).then(data => {
+                userInfo.image = data.avatar;
+                userInfo.info = data.note
+            }).catch(console.error('Keine Info gefunden'))
+        }
+
+    }).catch(console.error('Kein Account gefunden'))
+
+    return userInfo;
+}
