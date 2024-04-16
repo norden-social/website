@@ -16,3 +16,9 @@ Unser aktuelles Admin/Mod Team besteht aus:
 - [@tofuknacker](https://norden.social/@tofuknacker)
 - [@benny](https://norden.social/@benny)
 - [@barning](https://norden.social/@barning)
+
+<h3>Leuchtturm - Feed</h3>
+<img id="mastoavatar" src="" alt="Leuchtturm Avatar">
+
+<div id="mastofeed"></div>
+<script src="/assets/js/mastofeed.js"></script>
