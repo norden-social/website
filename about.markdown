@@ -7,9 +7,9 @@ permalink: /about/
 Diese Seite dient dazu, etwas mehr von der Arbeit hinter den Kulissen der Mastodon-Instanz norden.social zu zeigen.
 
 ## Wissenswertes
-Gegründet wurde die Instanz im August 2018 von Benny und Niklas.
+Gegründet wurde die Instanz im August 2018 von @benny und @barning.
 
-Unser aktuelles Admin/Mod Team besteht aus:
+### Unser aktuelles Team besteht aus:
 <ul class="profiles">
     <li><a href="https://norden.social/@fihu">@fihu</a></li>
     <li><a href="https://norden.social/@shortriver">@shortriver</a></li>
@@ -19,13 +19,7 @@ Unser aktuelles Admin/Mod Team besteht aus:
     <li><a href="https://norden.social/@barning">@barning</a></li>
 </ul>
 
+Falls du weitere Fragen hast, schreibe uns doch eine Mail unter [moin@norden.social](mailto:moin@norden.social) oder schreibe unserem Verwaltungsaccount [@leuchtturm](https://norden.social/@leuchtturm) auf Mastodon.
 
-<div class="adminabout">
-    <img id="mastoavatar" src="" alt="Leuchtturm Avatar">
-    <div class="admincontent">
-        <h3>Leuchtturm - Feed</h3>
-    </div>
-</div>
 
-<div id="mastofeed"></div>
-<script src="/assets/js/mastofeed.js"></script>
+<script src="/assets/js/masto.js"></script>

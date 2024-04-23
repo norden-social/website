@@ -5,7 +5,7 @@
   'minima/skins/{{ site.minima.skin | default: 'classic' }}',
   "minima/initialize";
 
-@import './components/mastofeed.scss';
+@import './components/masto.scss';
 
   body {
     position: relative;
