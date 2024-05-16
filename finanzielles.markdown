@@ -7,11 +7,11 @@ Diese Instanz zu betreiben kostet Geld. Unsere Admins und Moderator:innen erhalt
 Wofür wir Geld ausgeben:
 - Serverkosten: ~130€ im Monat
 - Mailjet: ~40€ im Monat
-- DeepL: ~55€ im Monat
+- DeepL: ~60€ im Monat
 - Mastodon Patron: 26€
 - Matrix Patron: 15€
 
-Unsere Monatlichen ausgaben sind also ~266€ im Monat.
+Unsere Monatlichen ausgaben sind also ~271€ im Monat.
 
 ## Unser Topf im Internet:
     _Überweisungen per IBAN nehmen wir im Moment nicht an_.
