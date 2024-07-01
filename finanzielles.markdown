@@ -14,7 +14,10 @@ Wofür wir Geld ausgeben:
 Unsere Monatlichen ausgaben sind also ~271€ im Monat.
 
 ## Unser Topf im Internet:
-    _Überweisungen per IBAN nehmen wir im Moment nicht an_.
+    norden.social e.V.
+    DE04430609671335766600
+    GENODEM1GLS
+    GLS Gemeinschaftsbank eG
 
 Natürlich auch über [Paypal](https://paypal.me/nordensocial) und [Liberapay](https://liberapay.com/norden.social) <img src="https://img.shields.io/liberapay/patrons/norden.social.svg?logo=liberapay">
 
