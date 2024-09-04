@@ -18,7 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: norden.social 
+title: norden.social
+logo: "https://norden.social/system/accounts/avatars/000/008/749/original/b02c08b9ea5ef104.jpeg"
 locale: de_DE
 email: moin@norden.social
 description: >- # this means to ignore newlines until "baseurl:"
@@ -45,8 +46,9 @@ defaults:
     values:
       layout: single
       author_profile: false
+      show_date: true
       read_time: false
-      comments: true
+      comments: false
       share: false
       related: false
   # _pages
@@ -56,6 +58,12 @@ defaults:
     values:
       layout: single
       author_profile: false
+
+compress_html:
+  clippings: all
+  ignore:
+    envs: development  # disable compression in dev environment
+
 
 
 
