@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Fragen & Antworten
 permalink: /faq/
 ---

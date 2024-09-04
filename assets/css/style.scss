@@ -1,11 +1,12 @@
 ---
 ---
-
+/*
 @import
   'minima/skins/{{ site.minima.skin | default: 'classic' }}',
   "minima/initialize";
 
 @import './components/masto.scss';
+@import './components/sub-menu.scss';
 
   body {
     position: relative;
@@ -44,3 +45,4 @@
     }
   }
 }
+*/

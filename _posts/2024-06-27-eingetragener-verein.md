@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title:  "Wir sind jetzt ein eingetragener Verein"
 categories: verein
 ---

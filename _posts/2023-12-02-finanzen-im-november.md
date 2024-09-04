@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title:  "Finanzen im November 2023"
 categories: finanzen
 ---

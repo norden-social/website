@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title:  "Finanzen im April 2023"
 categories: finanzen
 ---

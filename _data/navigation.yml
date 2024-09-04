@@ -1,0 +1,11 @@
+main:
+  - title: "Über uns"
+    url: /about/
+  - title: "FAQ"
+    url: /faq/
+  - title: "Finanzielles"
+    url: /finanzielles/
+  - title: "Regeln"
+    url: /regeln/
+  - title: "Verein"
+    url: /verein/

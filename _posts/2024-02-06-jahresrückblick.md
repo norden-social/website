@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title:  "Jahresrückblick 2023 und Ausblick für 2024"
 categories: verein
 ---

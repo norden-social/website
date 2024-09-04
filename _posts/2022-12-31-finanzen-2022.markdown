@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title:  "Finanzbericht 2022"
 categories: finanzen
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title:  "Neue Features für mehr Sicherheit und weniger Spam"
 categories: sicherheit
 ---
