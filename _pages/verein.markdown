@@ -1,10 +1,14 @@
 ---
-title: Satzung
-permalink: /satzung/
+title: Verein
+permalink: /verein/
+toc: true
 ---
 
-* Do not remove this line (it will not be displayed)
-{:toc}
+<div>
+<h4 class="no_toc">Fördermitglied werden</h4>
+<p>Du hast Interesse diesen Verein ganz offiziell zu unterstützen? Dann hast du bei uns die Möglichkeit ein Fördermitglied zu werden. Die Mitgliedschaft kannst du bei uns ganz einfach über diesen Link online beantragen.</p>
+</div>
+{: .notice}
 
 ## Vorstand
 - Erstes Vorstandsmitglied: Niklas Barning

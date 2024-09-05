@@ -36,7 +36,7 @@ remote_theme: mmistakes/minimal-mistakes@4.26.2
 
 show_excerpts: true # set to true to show excerpts on the homepage
 
-minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 defaults:
   # _posts
@@ -59,6 +59,26 @@ defaults:
       layout: single
       author_profile: false
 
+og_image: https://norden.social/system/site_uploads/files/000/000/007/@2x/ae17b5a591dba4e8.png
+
+social:
+  type:  Organisation
+  name:  norden.social e.V.
+  links:
+    - "https://blog.norden.social"
+    - "https://norden.social"
+    - "https://norden.social/@leuchtturm"
+    - "https://github.com/norden-social"
+
+footer:
+  links:
+    - label: "Mastodon"
+      icon: "fa-brands fa-mastodon"
+      url: "https://norden.social/@leuchtturm"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/norden-social"
+
 compress_html:
   clippings: all
   ignore:
@@ -75,6 +95,8 @@ plugins:
 sass:
     sass_dir: assets/css
     style: compressed
+
+include: ["_pages"]
 
 # Exclude from processing.
 # The following items will not be processed, by default.
