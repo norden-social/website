@@ -6,9 +6,9 @@ toc: true
 
 <div>
 <h4 class="no_toc">Fördermitglied werden</h4>
-<p>Du hast Interesse diesen Verein ganz offiziell zu unterstützen? Dann hast du bei uns die Möglichkeit ein Fördermitglied zu werden. Die Mitgliedschaft kannst du bei uns ganz einfach über diesen Link online beantragen.</p>
+<p>Du hast Interesse diesen Verein ganz offiziell zu unterstützen? Dann hast du bei uns die Möglichkeit ein Fördermitglied zu werden. Die Mitgliedschaft kannst du bei uns ganz einfach beantragen, indem du <a href="https://cloud.norden.social/s/FmrwwJTm8sTEsLs">diese PDF</a> ausfüllst und uns <a href="mailto:moin@norden.social">per Mail</a> zuschickst.</p>
 </div>
-{: .notice}
+{: .notice--info}
 
 ## Vorstand
 - Erstes Vorstandsmitglied: Niklas Barning

@@ -1,30 +1,13 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you:
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+# Jekyll Configuration
 
+# Site settings
 title: norden.social
 logo: "https://norden.social/system/accounts/avatars/000/008/749/original/b02c08b9ea5ef104.jpeg"
 locale: de_DE
 email: moin@norden.social
-description: >- # this means to ignore newlines until "baseurl:"
+description: >-
   Finanzielles, Statusupdates und andere Informationen rund um norden.social
-github_username:  norden-social
+github_username: norden-social
 repository: "norden-social/website"
 
 author:
@@ -33,11 +16,10 @@ author:
 
 # Build settings
 remote_theme: mmistakes/minimal-mistakes@4.26.2
+show_excerpts: true  # Show excerpts on the homepage
+minimal_mistakes_skin: "dirt"  # Skin options: air, aqua, contrast, dark, dirt, neon, mint, plum, sunrise
 
-show_excerpts: true # set to true to show excerpts on the homepage
-
-minimal_mistakes_skin: "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-
+# Defaults for _posts and _pages
 defaults:
   # _posts
   - scope:
@@ -51,6 +33,7 @@ defaults:
       comments: false
       share: false
       related: false
+
   # _pages
   - scope:
       path: ""
@@ -59,17 +42,17 @@ defaults:
       layout: single
       author_profile: false
 
-og_image: https://norden.social/system/site_uploads/files/000/000/007/@2x/ae17b5a591dba4e8.png
-
+# Social media settings
 social:
-  type:  Organisation
-  name:  norden.social e.V.
+  type: Organisation
+  name: norden.social e.V.
   links:
     - "https://blog.norden.social"
     - "https://norden.social"
     - "https://norden.social/@leuchtturm"
     - "https://github.com/norden-social"
 
+# Footer settings
 footer:
   links:
     - label: "Mastodon"
@@ -79,33 +62,31 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/norden-social"
 
+# Open Graph image
+og_image: https://norden.social/system/site_uploads/files/000/000/007/@2x/ae17b5a591dba4e8.png
+
+# HTML compression settings
 compress_html:
   clippings: all
   ignore:
-    envs: development  # disable compression in dev environment
+    envs: development  # Disable compression in dev environment
 
-
-
-
+# Plugins
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-octicons
 
+# Sass/SCSS settings
 sass:
-    sass_dir: assets/css
-    style: compressed
+  sass_dir: assets/css
+  style: compressed
 
-include: ["_pages"]
+# Include specific files for processing
+include:
+  - "_pages"
 
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
+# Exclude from processing (if needed)
 # exclude:
 #   - .sass-cache/
 #   - .jekyll-cache/

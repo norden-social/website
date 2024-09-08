@@ -20,7 +20,7 @@ Unsere regulären monatlichen Ausgaben belaufen sich also auf rund ~290€.
     GENODEM1GLS
     GLS Gemeinschaftsbank eG
     
-![QR-Code-Vereinsüberweisung](./assets/img/qr-verein.png)
+![QR-Code-Vereinsüberweisung](../assets/img/qr-verein.png)
 
 Natürlich auch über [Paypal](https://paypal.me/nordensocial) und [Liberapay](https://liberapay.com/norden.social) <img src="https://img.shields.io/liberapay/patrons/norden.social.svg?logo=liberapay">
 
