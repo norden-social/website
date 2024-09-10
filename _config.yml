@@ -1,23 +1,22 @@
 # Jekyll Configuration
 
+# Build settings
+remote_theme: mmistakes/minimal-mistakes@4.26.2
+show_excerpts: true  # Show excerpts on the homepage
+minimal_mistakes_skin: "dirt"  # Skin options: air, aqua, contrast, dark, dirt, neon, mint, plum, sunrise
+
 # Site settings
-title: norden.social
+title: "norden.social"
 logo: "https://norden.social/system/accounts/avatars/000/008/749/original/b02c08b9ea5ef104.jpeg"
-locale: de_DE
-email: moin@norden.social
-description: >-
-  Finanzielles, Statusupdates und andere Informationen rund um norden.social
+locale: "de-DE"
+email: "moin@norden.social"
+description: "Finanzielles, Statusupdates und andere Informationen rund um norden.social"
 github_username: norden-social
 repository: "norden-social/website"
 
 author:
   name: norden.social
   email: moin@norden.social
-
-# Build settings
-remote_theme: mmistakes/minimal-mistakes@4.26.2
-show_excerpts: true  # Show excerpts on the homepage
-minimal_mistakes_skin: "dirt"  # Skin options: air, aqua, contrast, dark, dirt, neon, mint, plum, sunrise
 
 # Defaults for _posts and _pages
 defaults:
