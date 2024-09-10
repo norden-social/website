@@ -1,0 +1,64 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+@charset "utf-8";
+
+$gap: 16px;
+$grid-columns: 3;
+
+.profiles {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    gap: $gap;
+    margin: $gap 0 $gap*2 0;
+    padding: 0;
+
+    img {
+        border-radius: 50%;
+        object-fit: cover;
+        height: 100px;
+        width: 100px;
+    }
+
+    li {
+        flex-basis: calc(100% / 1 - #{$gap} / 1 * (1 - 1));
+
+        @media (min-width: 270px) {
+            flex-basis: calc(100% / 2 - #{$gap} / 2 * (2 - 1));
+        }
+        
+        @media (min-width: 500px) {
+            flex-basis: calc(100% / #{$grid-columns} - #{$gap} / #{$grid-columns} * (#{$grid-columns} - 1));
+        }
+
+        min-width: 100px;
+
+        a {
+            color: var(--lt-color-text-default);
+            display: flex;
+            flex-direction: column;
+            background-color: var(--lt-color-background-default);
+            padding: 1rem;
+            border-radius: 16px; 
+            align-items: center;
+            box-shadow: var(--lt-shadowDefault);
+            transition: all .2s;
+
+            &:hover {
+                text-decoration: none;
+                box-shadow: var(--lt-shadowActive);
+            }
+        }
+
+        h3 {
+            margin: $gap 0 0 0;
+            text-align: center;
+        }
+    }
+}
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
