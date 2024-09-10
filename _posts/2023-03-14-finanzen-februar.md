@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title:  "Finanzen im Februar 2023"
 categories: finanzen
 ---

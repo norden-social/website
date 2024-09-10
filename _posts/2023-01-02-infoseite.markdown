@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title:  "Infoseite über norden.social gestartet!"
 categories: allgemein
 ---

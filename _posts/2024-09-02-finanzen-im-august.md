@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Finanzen im August 2024"
 categories: finanzen
 ---

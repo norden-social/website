@@ -17,7 +17,8 @@ function manageUser(listElement) {
         img.src = data.avatar
 
         var h3 = document.createElement("h3");
-        h3.innerHTML = data.display_name
+        let displayName = data.display_name.replace(/:[a-z\d_]+:/,'');
+        h3.innerHTML = displayName;
 
         link.prepend(h3);
         link.prepend(img);

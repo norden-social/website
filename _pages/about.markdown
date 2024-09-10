@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Über uns
 permalink: /about/
 ---
@@ -20,6 +19,5 @@ Gegründet wurde die Instanz im August 2018 von @benny und @barning.
 </ul>
 
 Falls du weitere Fragen hast, schreibe uns doch eine Mail unter [moin@norden.social](mailto:moin@norden.social) oder schreibe unserem Verwaltungsaccount [@leuchtturm](https://norden.social/@leuchtturm) auf Mastodon.
-
 
 <script src="/assets/js/masto.js"></script>

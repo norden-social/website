@@ -33,7 +33,9 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 # This is for github pages
-gem "github-pages", "~> 227", group: :jekyll_plugins
+gem "github-pages", group: :jekyll_plugins
+
+gem "jekyll-include-cache", group: :jekyll_plugins
 
 gem "webrick", "~> 1.7"
 

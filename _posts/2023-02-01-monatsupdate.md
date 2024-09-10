@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title:  "Update Februar 2023"
 categories: update
 ---

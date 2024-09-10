@@ -1,3 +1,10 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+@charset "utf-8";
+
 $gap: 16px;
 $grid-columns: 3;
 
@@ -48,6 +55,10 @@ $grid-columns: 3;
 
         h3 {
             margin: $gap 0 0 0;
+            text-align: center;
         }
     }
 }
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials

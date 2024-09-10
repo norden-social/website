@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "norden.social im Weser-Kurier"
 categories: allgemein
 ---
