@@ -22,7 +22,7 @@ Unsere regulären monatlichen Ausgaben belaufen sich also auf rund ~290€.
     
 ![QR-Code-Vereinsüberweisung](../assets/img/qr-verein.png)
 
-Natürlich auch über [Paypal](https://paypal.me/nordensocial) und [Liberapay](https://liberapay.com/norden.social) <img src="https://img.shields.io/liberapay/patrons/norden.social.svg?logo=liberapay">
+…und atürlich auch über [Paypal](https://paypal.me/nordensocial)
 
 
 ## Alle Posts über unsere Finanzen
