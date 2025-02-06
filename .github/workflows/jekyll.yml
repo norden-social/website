@@ -73,5 +73,7 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.1'
+      - name: Install dependencies
+        run: bundle install
       - name: Lint Jekyll
         run: bundle exec jekyll doctor
