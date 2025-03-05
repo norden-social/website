@@ -5,13 +5,34 @@ permalink: /regeln/
 
 Hier findest du eine Übersicht der Regeln und Richtlinien, die auf norden.social gelten. Es ist wichtig, dass alle Benutzer:innen diese Regeln beachten, um eine freundliche und inklusive Community aufrechtzuerhalten. Bitte lies diese Regeln sorgfältig durch und stelle sicher, dass du sie verstehst und einhältst. Wir danken dir für deine Mitarbeit und dein Engagement, um unsere Community zu einem positiven Ort zu machen.
 
-1.  Sei kein Arschloch. Du hast eine Meinung? Das ist gut aber bitte beleidige niemanden bei deinen Äußerungen.
-2.  Diskriminiere niemanden. Rassistische, sexistische, frauenfeindliche, homophobe, transfeindliche, ableistische, antisemitische und andere menschenfeindliche Beiträge sind bei uns verboten!
-3.  Halte dich an Gesetze. Ganz einfach. Auch im Internet kann man angezeigt werden.
-4.  Du bist für deine Privatsphäre verantwortlich. Wenn du nicht willst, dass etwas im Internet über dich steht, veröffentliche es nicht.
-5.  Automatisierte Beiträge sollten als "Nicht gelistet" gepostet werden (d. h. sie sind sichtbar, aber nicht in der lokalen Zeitleiste). Dies gilt auch für Bots, Feed-Poster, Twitter-"Retweets" und Twitter-Crossposts. Crossposter-Konten, die sich nicht aktiv beteiligen, können von uns entfernt werden.
-6.  Falls du einen NSFW-Only Account erstellen möchtest, ziehe eventuell eine andere Instanz in Betracht. Wahrscheinlich sind wir leider nicht geeignet für dich.
-7.  Wir dulden keine Belästigung, einschließlich Brigading, Dogpiling oder jede andere Form der Kontaktaufnahme mit einem Nutzer, der angegeben hat, dass er nicht kontaktiert werden möchte.
-8.  Wir dulden keine gewalttätige nationalistische Propaganda, keine Nazi-Symbolik und keine Förderung der Ideologie des Nationalsozialismus.
-9.  Inhalte, die in Deutschland illegal sind, werden gelöscht und können zur sofortigen Sperrung des Kontos führen.
-10.  Mach dich nicht lustig über andere und sei nicht herablassend. Du möchtest auch mit Respekt behandelt werden. Beachte, dass sich Ironie, Sarkasmus oder ähnliche Ausdrucksformen nicht gut in die Schriftsprache übertragen lassen und dazu neigen, Diskussionen oder Missverständnisse zu eskalieren.
+# Regeln der Mastodon-Instanz  
+
+1. **Respektvoller Umgang**  
+   Sei freundlich und respektvoll. Persönliche Angriffe, Beleidigungen oder herablassendes Verhalten sind nicht erlaubt.  
+
+2. **Keine Diskriminierung**  
+   Hass oder Diskriminierung aufgrund von Herkunft, Geschlecht, sexueller Orientierung, Geschlechtsidentität, Behinderung, Religion oder anderer Merkmale ist verboten.  
+
+3. **Einhaltung von Gesetzen und Urheberrechten**  
+   Illegale Inhalte und Urheberrechtsverletzungen werden entfernt. Wiederholte Verstöße können zur Sperrung des Kontos führen.  
+
+4. **Schutz der Privatsphäre**  
+   Teile keine persönlichen Daten ohne Zustimmung. Überlege genau, was du öffentlich postest.  
+
+5. **NSFW-Inhalte**  
+   Inhalte, die nicht jugendfrei sind, müssen als solche markiert werden. Reine NSFW-Accounts passen möglicherweise nicht zu unserer Instanz.  
+
+6. **Automatisierte Beiträge**  
+   Bots, Crossposts und Feed-Poster müssen als „Nicht gelistet“ markiert werden. Konten, die ausschließlich automatisierte Inhalte posten und sich nicht aktiv beteiligen, können entfernt werden.  
+
+7. **Keine Belästigung oder Spam**  
+   Belästigung, Mobbing, unerwünschte Kontaktaufnahme, Spam oder Schadsoftware sind verboten.  
+
+8. **Verbot extremistischer Inhalte**  
+   Nazi-Symbolik, extremistische Propaganda und Hassrede sind nicht erlaubt.  
+
+9. **Authentizität bewahren**  
+   Erstelle keine Fake-Profile oder täusche vor, jemand anderes zu sein.  
+
+10. **Keine absichtliche Verbreitung von Fehlinformationen**  
+   Das bewusste Verbreiten von Falschinformationen, die der Gesellschaft oder der Community schaden, ist untersagt.  
