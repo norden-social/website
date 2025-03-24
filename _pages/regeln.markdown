@@ -3,15 +3,38 @@ title: Regeln
 permalink: /regeln/
 ---
 
-Hier findest du eine Übersicht der Regeln und Richtlinien, die auf norden.social gelten. Es ist wichtig, dass alle Benutzer:innen diese Regeln beachten, um eine freundliche und inklusive Community aufrechtzuerhalten. Bitte lies diese Regeln sorgfältig durch und stelle sicher, dass du sie verstehst und einhältst. Wir danken dir für deine Mitarbeit und dein Engagement, um unsere Community zu einem positiven Ort zu machen.
+Hier findest du eine Übersicht der Regeln und Richtlinien, die auf norden.social gelten. Es ist wichtig, dass alle Benutzer:innen diese Regeln beachten, um eine freundliche und inklusive Community aufrechtzuerhalten. Bitte lies diese Regeln sorgfältig durch und stelle sicher, dass du sie verstehst und einhältst. Wir danken dir für deine Mitarbeit und dein Engagement, um unsere Community zu einem positiveren Ort zu machen.
 
-1.  Sei kein Arschloch. Du hast eine Meinung? Das ist gut aber bitte beleidige niemanden bei deinen Äußerungen.
-2.  Diskriminiere niemanden. Rassistische, sexistische, frauenfeindliche, homophobe, transfeindliche, ableistische, antisemitische und andere menschenfeindliche Beiträge sind bei uns verboten!
-3.  Halte dich an Gesetze. Ganz einfach. Auch im Internet kann man angezeigt werden.
-4.  Du bist für deine Privatsphäre verantwortlich. Wenn du nicht willst, dass etwas im Internet über dich steht, veröffentliche es nicht.
-5.  Automatisierte Beiträge sollten als "Nicht gelistet" gepostet werden (d. h. sie sind sichtbar, aber nicht in der lokalen Zeitleiste). Dies gilt auch für Bots, Feed-Poster, Twitter-"Retweets" und Twitter-Crossposts. Crossposter-Konten, die sich nicht aktiv beteiligen, können von uns entfernt werden.
-6.  Falls du einen NSFW-Only Account erstellen möchtest, ziehe eventuell eine andere Instanz in Betracht. Wahrscheinlich sind wir leider nicht geeignet für dich.
-7.  Wir dulden keine Belästigung, einschließlich Brigading, Dogpiling oder jede andere Form der Kontaktaufnahme mit einem Nutzer, der angegeben hat, dass er nicht kontaktiert werden möchte.
-8.  Wir dulden keine gewalttätige nationalistische Propaganda, keine Nazi-Symbolik und keine Förderung der Ideologie des Nationalsozialismus.
-9.  Inhalte, die in Deutschland illegal sind, werden gelöscht und können zur sofortigen Sperrung des Kontos führen.
-10.  Mach dich nicht lustig über andere und sei nicht herablassend. Du möchtest auch mit Respekt behandelt werden. Beachte, dass sich Ironie, Sarkasmus oder ähnliche Ausdrucksformen nicht gut in die Schriftsprache übertragen lassen und dazu neigen, Diskussionen oder Missverständnisse zu eskalieren.
+## Regeln der Mastodon-Instanz 
+
+### 1. Respektvoller Umgang
+Sei freundlich und respektvoll. Persönliche Angriffe, Beleidigungen oder herablassendes Verhalten werden nicht toleriert.
+
+### 2. Keine Diskriminierung
+Diskriminierung oder Hass aufgrund von Herkunft, Geschlecht, sexueller Orientierung, Geschlechtsidentität, Behinderung, Religion oder anderen persönlichen Merkmalen sind verboten.
+
+### 3. Einhaltung von Gesetzen und Urheberrechten
+Veröffentliche keine illegalen Inhalte oder Materialien, die Urheberrechte verletzen. Solche Beiträge werden entfernt, und wiederholte Verstöße können zur Kontosperrung führen.
+
+### 4. Schutz der Privatsphäre
+Teile keine persönlichen Daten ohne ausdrückliche Zustimmung der betroffenen Personen.
+Überlege sorgfältig, welche Informationen du öffentlich machst.
+
+### 5. Kennzeichnung anstößiger und nicht jugendfreier Inhalte
+Markiere Inhalte, die als anstößig oder jugendgefährdend gelten, mit einer Inhaltswarnung und (zum Beispiel per Hashtag) als "NSFW" (_Not Safe for Work_).
+Beachte, dass unsere Instanz möglicherweise nicht für Accounts geeignet ist, die ausschließlich jugendgefährende Inhalte teilen.
+
+### 6. Automatisierte Beiträge
+Automatisierte Inhalte wie Bots oder Crossposts müssen als "Öffentlich (Still)" veröffentlicht werden. Konten, die ohne aktive Teilnahme ausschließlich automatisierte Inhalte posten, können entfernt werden.
+
+### 7. Keine Belästigung oder Spam
+Belästigung, Mobbing, unerwünschte Kontaktaufnahmen, Spam oder die Verbreitung von Schadsoftware sind untersagt.
+
+### 8. Verbot extremistischer Inhalte
+Inhalte mit Nazi-Symbolik, extremistischer Propaganda oder Hassrede sind strengstens verboten.
+
+### 9. Authentizität bewahren
+Erstelle keine Fake-Profile und gib dich nicht als jemand anderes aus.
+
+### 10. Keine absichtliche Verbreitung von Fehlinformationen
+   Das bewusste Verbreiten von falschen Informationen, die der Community oder der Gesellschaft schaden könnten, ist verboten.
