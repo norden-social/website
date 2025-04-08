@@ -11,7 +11,7 @@ Hier findest du eine Übersicht der Regeln und Richtlinien, die auf norden.socia
 Sei freundlich und respektvoll. Persönliche Angriffe, Beleidigungen oder herablassendes Verhalten werden nicht toleriert.
 
 ### 2. Keine Diskriminierung
-Diskriminierung oder Hass aufgrund von Herkunft, Geschlecht, sexueller Orientierung, Geschlechtsidentität, Behinderung, Religion oder anderen persönlichen Merkmalen sind verboten.
+Diskriminierung oder Hass aufgrund von Herkunft, Geschlecht, sexueller Orientierung, Geschlechtsidentität, Behinderung, Einschränkungen (Ableismus), Religion oder anderen persönlichen Merkmalen sind verboten.
 
 ### 3. Einhaltung von Gesetzen und Urheberrechten
 Veröffentliche keine illegalen Inhalte oder Materialien, die Urheberrechte verletzen. Solche Beiträge werden entfernt, und wiederholte Verstöße können zur Kontosperrung führen.
