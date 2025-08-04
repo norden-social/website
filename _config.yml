@@ -7,7 +7,7 @@ minimal_mistakes_skin: "dirt"  # Skin options: air, aqua, contrast, dark, dirt, 
 
 # Site settings
 title: "norden.social"
-logo: "https://media.norden.social/accounts/avatars/000/008/749/original/08287f70ffdbc9c7.png"
+logo: "https://media.norden.social/site_uploads/files/000/000/009/114/75ad701713825369.png"
 locale: "de-DE"
 email: "moin@norden.social"
 description: "Finanzielles, Statusupdates und andere Informationen rund um norden.social"
@@ -62,7 +62,7 @@ footer:
       url: "https://github.com/norden-social"
 
 # Open Graph image
-og_image: https://norden.social/system/site_uploads/files/000/000/007/@2x/ae17b5a591dba4e8.png
+og_image: https://media.norden.social/site_uploads/files/000/000/007/@1x/55cdf7c2197caa4e.png
 
 # HTML compression settings
 compress_html:
