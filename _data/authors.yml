@@ -1,0 +1,34 @@
+# /_data/authors.yml
+
+Niklas:
+  name        : "Niklas Barning"
+  bio         : "Product Designer mit Fokus auf nutzerzentrierte Produktentwicklung, Discovery und klare Kommunikation. Arbeitet an digitalen Lösungen, die sinnvoll, zugänglich und strukturiert sind."
+  avatar      : "https://niklasbarning.de/wp-content/uploads/sites/2/2025/06/avatar.gif"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:moin@niklasbarning.de"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://niklasbarning.de"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/barning"
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://norden.social/@barning"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/niklas-barning-15ab0784/"
+
+Michael:
+  name        : "Michael Grandjean"
+  bio         : "Open Source Contributor aus Bremen. Aktiv auf GitHub als MiGrandjean."
+  avatar      : "https://avatars.githubusercontent.com/u/8418423?v=4"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/MiGrandjean"
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://norden.social/@mig"

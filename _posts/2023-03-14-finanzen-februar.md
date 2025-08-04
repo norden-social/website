@@ -2,6 +2,7 @@
 
 title:  "Finanzen im Februar 2023"
 categories: finanzen
+author: Niklas
 ---
 
 Hier unsere Einnahmen und Ausgaben für Februar 2023

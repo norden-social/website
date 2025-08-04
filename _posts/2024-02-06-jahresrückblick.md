@@ -2,6 +2,7 @@
 
 title:  "Jahresrückblick 2023 und Ausblick für 2024"
 categories: verein
+author: Niklas
 ---
 Eigentlich hatten wir geplant, den Jahresrückblick zu verfassen, sobald alle derzeit noch laufenden Projekte abgeschlossen wären. Nun ist bereits der Februar angebrochen, und es herrschte eine zu lange Stille.
 

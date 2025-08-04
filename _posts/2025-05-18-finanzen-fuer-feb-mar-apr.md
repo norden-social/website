@@ -1,6 +1,7 @@
 ---
 title:  "Finanzen im Februar, März und April 2025"
 categories: finanzen
+author: Michael
 ---
 Nach kurzer Pause mal wieder ein kleines Update zu unseren Finanzen:
 

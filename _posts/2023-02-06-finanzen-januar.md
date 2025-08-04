@@ -2,6 +2,7 @@
 
 title:  "Finanzen im Januar 2023"
 categories: finanzen
+author: Niklas
 ---
 Schauen wir zusammen auf die Finanzen vom Januar 2023.
 

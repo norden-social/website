@@ -2,6 +2,7 @@
 
 title:  "Finanzen im März 2023"
 categories: finanzen
+author: Niklas
 ---
 
 Wir haben im März etwa 195€ für den Support der Projekte, Serverkosten und Deepl ausgegeben. Eingenommen haben wir ca. 378€.

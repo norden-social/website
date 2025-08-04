@@ -2,6 +2,7 @@
 
 title:  "Infoseite über norden.social gestartet!"
 categories: allgemein
+author: Niklas
 ---
 Moin,
 dies ist die Infoseite zur Mastodon Instanz ["norden.social"](https://norden.social).
