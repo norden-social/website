@@ -22,7 +22,7 @@ Unsere regulären monatlichen Ausgaben belaufen sich also auf rund ~290€.
     
 ![QR-Code-Vereinsüberweisung](../assets/img/qr-verein.png)
 
-…und atürlich auch über [Paypal](https://paypal.me/nordensocial)
+…und natürlich auch über [Paypal](https://paypal.me/nordensocial)
 
 
 ## Alle Posts über unsere Finanzen
