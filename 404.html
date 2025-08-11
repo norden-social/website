@@ -1,25 +1,96 @@
 ---
 permalink: /404.html
 layout: default
+title: "404 - Seite nicht gefunden"
 ---
 
 <style type="text/css" media="screen">
-  .container {
-    margin: 10px auto;
+  .error-container {
+    margin: 2rem auto;
     max-width: 600px;
     text-align: center;
+    padding: 2rem;
   }
-  h1 {
-    margin: 30px 0;
-    font-size: 4em;
+  
+  .error-code {
+    margin: 2rem 0;
+    font-size: 6rem;
     line-height: 1;
-    letter-spacing: -1px;
+    letter-spacing: -2px;
+    font-weight: bold;
+    color: var(--lt-color-primary);
+  }
+  
+  .error-message {
+    font-size: 1.5rem;
+    margin-bottom: 2rem;
+    color: var(--lt-color-text-default);
+  }
+  
+  .error-description {
+    font-size: 1.1rem;
+    margin-bottom: 2rem;
+    color: var(--lt-color-text-muted);
+  }
+  
+  .error-actions {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  
+  .error-actions a {
+    display: inline-block;
+    padding: 0.75rem 1.5rem;
+    background-color: var(--lt-color-primary);
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    transition: background-color 0.2s ease;
+  }
+  
+  .error-actions a:hover {
+    background-color: var(--lt-color-primary-dark);
+    text-decoration: none;
+  }
+  
+  .error-actions a.secondary {
+    background-color: transparent;
+    color: var(--lt-color-primary);
+    border: 2px solid var(--lt-color-primary);
+  }
+  
+  .error-actions a.secondary:hover {
+    background-color: var(--lt-color-primary);
+    color: white;
+  }
+  
+  @media (max-width: 600px) {
+    .error-code {
+      font-size: 4rem;
+    }
+    
+    .error-message {
+      font-size: 1.25rem;
+    }
+    
+    .error-actions {
+      flex-direction: column;
+      align-items: center;
+    }
   }
 </style>
 
-<div class="container">
-  <h1>404</h1>
+<div class="error-container">
+  <h1 class="error-code">404</h1>
 
-  <p><strong>Page not found :(</strong></p>
-  <p>The requested page could not be found.</p>
+  <p class="error-message"><strong>Seite nicht gefunden</strong></p>
+  <p class="error-description">Die angeforderte Seite konnte leider nicht gefunden werden. Möglicherweise wurde sie verschoben, gelöscht oder die URL ist falsch geschrieben.</p>
+  
+  <div class="error-actions">
+    <a href="/" aria-label="Zur Startseite">Zur Startseite</a>
+    <a href="/about/" class="secondary" aria-label="Über uns">Über uns</a>
+    <a href="https://norden.social" class="secondary" aria-label="Zur Mastodon-Instanz">Mastodon-Instanz</a>
+  </div>
 </div>

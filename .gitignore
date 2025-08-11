@@ -1,5 +1,42 @@
-_site
-.sass-cache
-.jekyll-cache
+# Jekyll build files
+_site/
+.sass-cache/
+.jekyll-cache/
 .jekyll-metadata
-vendor
+
+# Ruby dependencies
+vendor/
+.bundle/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Temporary files
+*.tmp
+*.temp
