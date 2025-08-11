@@ -22,8 +22,7 @@ Niklas:
       url: "https://www.linkedin.com/in/niklas-barning-15ab0784/"
 
 Michael:
-  name        : "Michael Grandjean"
-  bio         : "Open Source Contributor aus Bremen. Aktiv auf GitHub als MiGrandjean."
+  name        : "Michael"
   avatar      : "https://avatars.githubusercontent.com/u/8418423?v=4"
   links:
     - label: "GitHub"
@@ -32,3 +31,13 @@ Michael:
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
       url: "https://norden.social/@mig"
+
+Marius:
+  name        : "Marius"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://fihu.omg.lol"
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://norden.social/@fihu"

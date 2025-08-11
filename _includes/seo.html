@@ -1,0 +1,30 @@
+{% seo %}
+
+{% comment %}
+  Custom SEO include that adds fediverse:creator OpenGraph tag
+{% endcomment %}
+
+{% if page.author and site.data.authors[page.author] %}
+  {% assign author = site.data.authors[page.author] %}
+  {% for link in author.links %}
+    {% if link.label == "Mastodon" %}
+      {% assign mastodon_url = link.url %}
+      {% break %}
+    {% endif %}
+  {% endfor %}
+  
+  {% if mastodon_url %}
+    {% comment %} Extract handle from Mastodon URL - handle various URL formats {% endcomment %}
+    {% assign url_parts = mastodon_url | replace: "https://", "" | replace: "http://", "" %}
+    {% if url_parts contains "/@" %}
+      {% assign domain_handle = url_parts | split: "/@" | last %}
+      {% assign domain = url_parts | split: "/@" | first %}
+      {% assign fediverse_handle = "@" | append: domain_handle | append: "@" | append: domain %}
+      <meta name="fediverse:creator" content="{{ fediverse_handle }}" />
+    {% elsif url_parts contains "@" %}
+      {% comment %} Handle direct @username@domain format {% endcomment %}
+      {% assign fediverse_handle = "@" | append: url_parts | remove: "https://" | remove: "http://" %}
+      <meta name="fediverse:creator" content="{{ fediverse_handle }}" />
+    {% endif %}
+  {% endif %}
+{% endif %}
