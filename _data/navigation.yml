@@ -9,3 +9,5 @@ main:
     url: /regeln/
   - title: "Verein"
     url: /verein/
+  - title: "Autoren"
+    url: /autoren/

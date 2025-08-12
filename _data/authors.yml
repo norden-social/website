@@ -5,6 +5,9 @@ Niklas:
   bio         : "Product Designer mit Fokus auf nutzerzentrierte Produktentwicklung, Discovery und klare Kommunikation. Arbeitet an digitalen Lösungen, die sinnvoll, zugänglich und strukturiert sind."
   avatar      : "https://niklasbarning.de/wp-content/uploads/sites/2/2025/06/avatar.gif"
   links:
+    - label: "Beiträge"
+      icon: "fas fa-fw fa-file-alt"
+      url: "/autor/niklas/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:moin@niklasbarning.de"
@@ -25,6 +28,9 @@ Michael:
   name        : "Michael"
   avatar      : "https://avatars.githubusercontent.com/u/8418423?v=4"
   links:
+    - label: "Beiträge"
+      icon: "fas fa-fw fa-file-alt"
+      url: "/autor/michael/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/MiGrandjean"
@@ -35,6 +41,9 @@ Michael:
 Marius:
   name        : "Marius"
   links:
+    - label: "Beiträge"
+      icon: "fas fa-fw fa-file-alt"
+      url: "/autor/marius/"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://fihu.omg.lol"

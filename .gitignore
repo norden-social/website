@@ -3,3 +3,6 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+
+# Ignore locally generated author pages (CI generates them during build)
+_pages/autor-*.markdown
