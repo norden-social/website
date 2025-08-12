@@ -76,6 +76,10 @@ plugins:
   - jekyll-seo-tag
   - jekyll-octicons
 
+# Ensure local/Codespaces builds load custom plugins like `_plugins/taint_compat.rb`.
+# GitHub Pages will ignore this and enforce safe mode on their side.
+safe: false
+
 # Sass/SCSS settings
 sass:
   sass_dir: assets/css
