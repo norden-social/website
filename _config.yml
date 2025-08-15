@@ -1,114 +1,83 @@
-# Jekyll Configuration
-
-# Build settings
+---
 remote_theme: mmistakes/minimal-mistakes@4.27.3
-show_excerpts: true  # Show excerpts on the homepage
-minimal_mistakes_skin: "dirt"  # Skin options: air, aqua, contrast, dark, dirt, neon, mint, plum, sunrise
-
-# Site settings
-title: "norden.social"
-logo: "https://media.norden.social/site_uploads/files/000/000/009/114/75ad701713825369.png"
-locale: "de-DE"
-email: "moin@norden.social"
-description: "Finanzielles, Statusupdates und andere Informationen rund um norden.social"
+show_excerpts: true
+minimal_mistakes_skin: dirt
+title: norden.social
+logo: https://media.norden.social/accounts/avatars/000/008/749/original/3d84c5056d5ef37c.png
+locale: de-DE
+email: moin@norden.social
+description: Finanzielles, Statusupdates und andere Informationen rund um norden.social
 github_username: norden-social
-repository: "norden-social/website"
-url: "https://blog.norden.social"
-baseurl: ""
-
+repository: norden-social/website
+url: https://blog.norden.social
+baseurl: ''
 author:
   name: norden.social
   email: moin@norden.social
-
-# Defaults for _posts and _pages
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      show_date: true
-      read_time: false
-      comments: false
-      share: false
-      related: false
-      toc: false
-
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: false
-      toc: false
-
-# Social media settings
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: single
+    author_profile: true
+    show_date: true
+    read_time: false
+    comments: false
+    share: false
+    related: false
+    toc: false
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: single
+    author_profile: false
+    toc: false
 social:
   type: Organisation
   name: norden.social e.V.
   links:
-    - "https://blog.norden.social"
-    - "https://norden.social"
-    - "https://norden.social/@leuchtturm"
-    - "https://github.com/norden-social"
-
-# Footer settings
+  - https://blog.norden.social
+  - https://norden.social
+  - https://norden.social/@leuchtturm
+  - https://github.com/norden-social
 footer:
   links:
-    - label: "Mastodon"
-      icon: "fa-brands fa-mastodon"
-      url: "https://norden.social/@leuchtturm"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/norden-social"
-
-# Open Graph image
+  - label: Mastodon
+    icon: fa-brands fa-mastodon
+    url: https://norden.social/@leuchtturm
+  - label: GitHub
+    icon: fab fa-fw fa-github
+    url: https://github.com/norden-social
 og_image: https://media.norden.social/site_uploads/files/000/000/007/@1x/55cdf7c2197caa4e.png
-
-# HTML compression settings
 compress_html:
   clippings: all
   ignore:
-    envs: development  # Disable compression in dev environment
-
-# Plugins
+    envs: development
 plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-octicons
-  - jekyll-include-cache
-
-# Ensure local/Codespaces builds load custom plugins like `_plugins/taint_compat.rb`.
-# GitHub Pages will ignore this and enforce safe mode on their side.
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-octicons
+- jekyll-include-cache
 safe: false
-
-# Sass/SCSS settings
 sass:
   sass_dir: assets/css
   style: compressed
-
-# Include specific files for processing
 include:
-  - "_pages"
-
-# Exclude from processing
+- _pages
 exclude:
-  - .sass-cache/
-  - .jekyll-cache/
-  - Gemfile
-  - Gemfile.lock
-  - node_modules/
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
-  - .devcontainer/
-  - .github/
-
-# Performance optimizations
+- ".sass-cache/"
+- ".jekyll-cache/"
+- Gemfile
+- Gemfile.lock
+- node_modules/
+- vendor/bundle/
+- vendor/cache/
+- vendor/gems/
+- vendor/ruby/
+- ".devcontainer/"
+- ".github/"
 markdown: kramdown
 kramdown:
   input: GFM
@@ -116,34 +85,26 @@ kramdown:
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char
-  toc_levels: "1,2,3"
+  toc_levels: '1,2,3'
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
-
-# Pagination (if needed)
 paginate: 10
 paginate_path: "/page/:num/"
-
-# Collections
 collections:
   posts:
     output: true
-    permalink: /:categories/:title/
+    permalink: "/:categories/:title/"
   pages:
     output: true
-    permalink: /:title/
-
-# Feed settings
+    permalink: "/:title/"
 feed:
   path: atom.xml
   limit: 20
-
-# SEO settings
 seo:
-  title: "norden.social - Mastodon Instanz"
-  description: "Finanzielles, Statusupdates und andere Informationen rund um norden.social"
-  author: "norden.social e.V."
-  image: "https://media.norden.social/site_uploads/files/000/000/007/@1x/55cdf7c2197caa4e.png"
-  image_alt: "norden.social Logo"
-  locale: "de_DE"
-  type: "website"
+  title: norden.social - Mastodon Instanz
+  description: Finanzielles, Statusupdates und andere Informationen rund um norden.social
+  author: norden.social e.V.
+  image: https://media.norden.social/site_uploads/files/000/000/007/@1x/55cdf7c2197caa4e.png
+  image_alt: norden.social Logo
+  locale: de_DE
+  type: website
