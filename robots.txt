@@ -1,0 +1,19 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://blog.norden.social/sitemap.xml
+
+# Disallow admin and private areas
+Disallow: /admin/
+Disallow: /private/
+Disallow: /_site/
+Disallow: /.git/
+Disallow: /.github/
+
+# Allow important pages
+Allow: /about/
+Allow: /faq/
+Allow: /finanzielles/
+Allow: /regeln/
+Allow: /verein/

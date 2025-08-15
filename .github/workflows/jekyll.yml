@@ -42,6 +42,8 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
+      - name: Update logo from Mastodon instance
+        run: ruby _scripts/update_logo_from_instance.rb
       - name: Generate author pages
         run: ruby _scripts/generate_authors.rb
       - name: Build with Jekyll
