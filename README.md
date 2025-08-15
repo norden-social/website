@@ -1,11 +1,13 @@
+
 # norden.social Blog
 
-This is the official blog for the norden.social Mastodon instance, built with Jekyll and the Minimal Mistakes theme.
+This is the official blog of the Mastodon instance norden.social, built with Jekyll and the Minimal Mistakes theme.
+The site contains financial reports, status updates, and other information about norden.social.
 
 ## 🚀 Quick Start
 
 ### Prerequisites
-- Ruby 3.1 or higher
+- Ruby 3.1 or higher (recommended: Ruby >= 3.2)
 - Bundler
 - Git
 
@@ -30,37 +32,46 @@ This is the official blog for the norden.social Mastodon instance, built with Je
 4. **Open your browser**
    Navigate to `http://localhost:4000`
 
+
+
 ## 📁 Project Structure
 
 ```
 website/
-├── _config.yml          # Jekyll configuration
-├── _data/               # Site data (navigation, UI text)
-├── _layouts/            # Layout templates
-├── _pages/              # Static pages
-├── _posts/              # Blog posts
-├── assets/              # CSS, JS, and images
+├── _config.yml         # Jekyll configuration
+├── _data/              # YAML data (authors, navigation, UI texts)
+├── _includes/          # Reusable HTML parts (e.g. profiles)
+├── _layouts/           # (empty, layouts provided by the theme)
+├── _pages/             # Static pages (Markdown)
+├── _plugins/           # Compatibility plugins (e.g. Ruby 3.2)
+├── _posts/             # Blog posts (Markdown)
+├── _scripts/           # Helper scripts (Ruby)
+├── assets/             # CSS, JS, images
 │   ├── css/
 │   ├── js/
 │   └── img/
-├── .github/             # GitHub Actions workflows
-└── .devcontainer/       # Development container config
+├── .github/            # GitHub Actions workflows
+├── .devcontainer/      # Devcontainer configuration
+├── vendor/             # Bundler dependencies (local)
+└── _site/              # Build output (generated automatically)
 ```
 
 ## 🛠️ Development
 
-### Adding New Posts
-Create new markdown files in `_posts/` with the following front matter:
+
+### Adding Blog Posts
+Create a Markdown file in `_posts/`. Example front matter:
 ```yaml
 ---
-title: "Your Post Title"
-categories: [category1, category2]
+title: "Post Title"
+categories: [finances, update]
 date: YYYY-MM-DD HH:MM:SS
+author: Firstname
 ---
 ```
 
-### Adding New Pages
-Create new markdown files in `_pages/` with the following front matter:
+### Adding Pages
+Create a Markdown file in `_pages/`. Example front matter:
 ```yaml
 ---
 title: "Page Title"
@@ -69,50 +80,58 @@ permalink: /page-url/
 ```
 
 ### Styling
-- Main styles are in `assets/css/main.scss`
-- Uses SCSS with variables and mixins
-- Follows mobile-first responsive design
+- Main styles: `assets/css/main.scss` (SCSS, mobile-first, accessible)
 
 ### JavaScript
-- Custom JavaScript is in `assets/js/masto.js`
-- Handles Mastodon API integration for user profiles
-- Uses modern ES6+ features with proper error handling
+- Mastodon profiles: `assets/js/masto.js` (dynamically loads profile info)
+
+### Ruby Helper Scripts
+- `_scripts/generate_profiles.rb`: Generates static HTML for team profiles from the Mastodon API
+- `_scripts/generate_authors.rb`: Generates author pages from `_data/authors.yml`
+- `_scripts/update_logo_from_instance.rb`: Fetches the instance logo and updates `_config.yml`
+
+### Plugins
+- `_plugins/taint_compat.rb`: Compatibility for Ruby >= 3.2 and Liquid < 5
 
 ## 🚀 Deployment
 
-The site is automatically deployed to GitHub Pages via GitHub Actions when changes are pushed to the `main` branch.
+The site is automatically deployed to GitHub Pages via GitHub Actions (branch: `main`).
 
-### Manual Deployment
+### Manuelles Deployment (lokal bauen)
 ```bash
 bundle exec jekyll build
 ```
 
+
+
 ## 🔧 Configuration
 
-### Key Settings in `_config.yml`
-- **Theme**: Minimal Mistakes 4.26.2
+### Key settings in `_config.yml`
+- **Theme**: Minimal Mistakes 4.27.3 (remote_theme)
 - **Skin**: "dirt" (customizable)
-- **Plugins**: jekyll-feed, jekyll-seo-tag, jekyll-octicons
+- **Plugins**: jekyll-feed, jekyll-seo-tag, jekyll-octicons, jekyll-include-cache
 - **Language**: German (de-DE)
+- **Logo**: Automatically updated via script
 
-### Environment Variables
-- `JEKYLL_ENV`: Set to `production` for builds
+### Environment variables
+- `JEKYLL_ENV=production` for production builds
 
 ## 📱 Features
 
-- **Responsive Design**: Mobile-first approach
-- **Accessibility**: WCAG compliant with proper focus states
-- **SEO Optimized**: Meta tags, sitemap, robots.txt
-- **Performance**: Optimized images, lazy loading
-- **Security**: Content Security Policy, XSS protection
+- **Responsive design** (mobile-first, SCSS)
+- **Accessibility** (focus, skip links, contrast)
+- **SEO** (meta tags, sitemap, robots.txt, OpenGraph)
+- **Performance** (optimized images, lazy loading)
+- **Security** (CSP, XSS protection, no external trackers)
+- **Automatic author and profile pages** (via script)
 
 ## 🤝 Contributing
 
 1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
+2. Create a branch (`git checkout -b feature/new-feature`)
+3. Commit your changes (`git commit -m 'New feature'`)
+4. Push to your fork (`git push origin feature/new-feature`)
+5. Open a pull request
 
 ## 📄 License
 
@@ -122,5 +141,5 @@ This project is maintained by norden.social e.V.
 
 For questions or issues:
 - Email: moin@norden.social
-- Mastodon: @leuchtturm@norden.social
+- Mastodon: [@leuchtturm@norden.social](https://norden.social/@leuchtturm)
 - GitHub Issues: [Create an issue](https://github.com/norden-social/website/issues)
