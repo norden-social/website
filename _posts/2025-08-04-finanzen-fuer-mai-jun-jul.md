@@ -1,6 +1,7 @@
 ---
 title:  "Finanzen im Mai, Juni und Juli 2025"
 categories: finanzen
+author: Michael
 ---
 Nach kurzer Pause mal wieder ein kleines Update zu unseren Finanzen:
 

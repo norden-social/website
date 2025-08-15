@@ -2,6 +2,7 @@
 
 title:  "Finanzen im Mai 2023"
 categories: finanzen
+author: Niklas
 ---
 Hier sind wieder die Einnahmen und Ausgaben der Mastodon Instanz für den Monat Mai 2023.
 

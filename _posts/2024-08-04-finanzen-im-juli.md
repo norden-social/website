@@ -2,6 +2,7 @@
 
 title:  "Finanzen im Juli 2024"
 categories: finanzen
+author: Michael
 ---
 Der Juli 2024 war der erste volle Monat als eingetragener Verein und der erste Monat mit Vereinskonto.
 
