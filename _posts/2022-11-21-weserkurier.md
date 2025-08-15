@@ -1,6 +1,7 @@
 ---
 title:  "norden.social im Weser-Kurier"
 categories: allgemein
+author: Niklas
 ---
 Benny und Niklas hatten Besuch vom Weser-Kurier und sprachen über Mastodon und norden.social.
 

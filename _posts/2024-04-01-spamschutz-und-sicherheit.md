@@ -2,6 +2,7 @@
 
 title:  "Neue Features für mehr Sicherheit und weniger Spam"
 categories: sicherheit
+author: Marius
 ---
 Wir möchten über eine neue Funktion informieren, die den Login vereinfachen wird.
 

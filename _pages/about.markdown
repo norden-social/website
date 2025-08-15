@@ -14,7 +14,6 @@ Gegründet wurde die Instanz im August 2018 von @benny und @barning.
     <li><a href="https://norden.social/@shortriver">@shortriver</a></li>
     <li><a href="https://norden.social/@mig">@mig</a></li>
     <li><a href="https://norden.social/@tofuknacker">@tofuknacker</a></li>
-    <li><a href="https://norden.social/@benny">@benny</a></li>
     <li><a href="https://norden.social/@barning">@barning</a></li>
 </ul>
 

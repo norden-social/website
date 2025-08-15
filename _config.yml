@@ -28,7 +28,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       show_date: true
       read_time: false
       comments: false
@@ -80,6 +80,10 @@ plugins:
   - jekyll-seo-tag
   - jekyll-octicons
   - jekyll-include-cache
+
+# Ensure local/Codespaces builds load custom plugins like `_plugins/taint_compat.rb`.
+# GitHub Pages will ignore this and enforce safe mode on their side.
+safe: false
 
 # Sass/SCSS settings
 sass:

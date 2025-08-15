@@ -2,6 +2,7 @@
 
 title:  "Update Februar 2023"
 categories: update
+author: Niklas
 ---
 
 Hallo Mitglieder von norden.social, zeit für einen Blick auf den vergangenen Monat.

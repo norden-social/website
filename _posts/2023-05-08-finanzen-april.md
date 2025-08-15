@@ -2,6 +2,7 @@
 
 title:  "Finanzen im April 2023"
 categories: finanzen
+author: Niklas
 ---
 
 Es ist wieder ein Monat vergangen und wir informieren euch über die Einnahmen und Ausgaben im April.

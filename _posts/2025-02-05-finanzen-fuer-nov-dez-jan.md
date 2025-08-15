@@ -1,6 +1,7 @@
 ---
 title:  "Finanzen im November und Dezember 2024 und im Januar 2025"
 categories: finanzen
+author: Michael
 ---
 Nach kurzer Pause mal wieder ein kleines Update zu unseren Finanzen:
 

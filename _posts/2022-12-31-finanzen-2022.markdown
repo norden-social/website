@@ -2,6 +2,7 @@
 
 title:  "Finanzbericht 2022"
 categories: finanzen
+author: Niklas
 ---
 Hier unser Finanzbericht für 2022.
 
