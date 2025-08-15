@@ -13,7 +13,7 @@ toc: true
 
 ## Vorstand
 - Erstes Vorstandsmitglied: Niklas Barning
-- Zweites Vorstandsmitglied: Benedikt Windolph
+- Zweites Vorstandsmitglied: ...
 - Kassenwart: Michael Grandjean
 
 ## Satzung des Vereins „norden.social e.V."
