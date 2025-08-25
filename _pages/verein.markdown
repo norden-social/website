@@ -13,7 +13,7 @@ toc: true
 
 ## Vorstand
 - Erstes Vorstandsmitglied: Niklas Barning
-- Zweites Vorstandsmitglied: ...
+- Zweites Vorstandsmitglied: Oliver Jakobi
 - Kassenwart: Michael Grandjean
 
 ## Satzung des Vereins „norden.social e.V."
