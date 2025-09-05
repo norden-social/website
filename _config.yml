@@ -98,8 +98,7 @@ collections:
     output: true
     permalink: "/:title/"
 feed:
-  path: atom.xml
-  limit: 20
+  path: feed.xml
 seo:
   title: norden.social - Mastodon Instanz
   description: Finanzielles, Statusupdates und andere Informationen rund um norden.social
