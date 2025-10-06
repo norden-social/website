@@ -11,8 +11,9 @@ Wofür wir Geld ausgeben:
 - Kontoführungsgebühren: ~17€ im Monat
 - Mastodon Patron: 26€
 - Matrix Patron: 15€
+- Postfachmiete: 95€
 
-Unsere regulären monatlichen Ausgaben belaufen sich also auf rund ~290€.
+Unsere regulären monatlichen Ausgaben belaufen sich also auf rund ~385€.
 
 ## Unser Topf im Internet:
     norden.social e.V.
