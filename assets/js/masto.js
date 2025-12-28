@@ -13,18 +13,24 @@ document.addEventListener('DOMContentLoaded', function() {
 
 async function manageUser(listElement) {
     try {
-        const userName = listElement.textContent?.trim();
-        if (!userName) {
-            console.warn('No username found in profile element');
+        // Extract username/handle from the anchor href (more reliable than textContent)
+        const link = listElement.querySelector('a');
+        if (!link) {
+            console.warn('No link element found');
             return;
         }
-        
-        const user = userName.replace('@', '');
+
+        // href might be absolute (https://norden.social/@user) or relative (/@user)
+        const href = link.getAttribute('href') || link.href || '';
+        const parts = href.split('/').filter(Boolean);
+        const last = parts.length ? parts[parts.length - 1] : '';
+        const user = last.replace(/^@/, '').trim();
+
         if (!user) {
-            console.warn('Invalid username format');
+            console.warn('Invalid username extracted from href:', href);
             return;
         }
-        
+
         const url = `https://norden.social/api/v1/accounts/lookup?acct=${encodeURIComponent(user)}`;
         
         const response = await fetch(url);
@@ -39,23 +45,17 @@ async function manageUser(listElement) {
             return;
         }
         
-        const link = listElement.querySelector('a');
-        if (!link) {
-            console.warn('No link element found');
-            return;
-        }
-        
         // Create and configure image
         const img = new Image();
         img.src = data.avatar;
         img.alt = `${data.display_name}'s avatar`;
         img.loading = 'lazy'; // Lazy loading for better performance
-        
+
         // Create heading with sanitized content
         const h3 = document.createElement("h3");
-        const displayName = data.display_name.replace(/:[a-z\d_]+:/g, ''); // Remove emoji codes
-        h3.textContent = displayName; // Use textContent instead of innerHTML for security
-        
+        const displayName = (data.display_name || '').replace(/:[a-z\d_]+:/g, ''); // Remove emoji codes
+        h3.textContent = displayName || user; // Fallback to handle if display_name empty
+
         // Clear existing content and add new elements
         link.innerHTML = '';
         link.appendChild(img);
