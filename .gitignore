@@ -45,3 +45,6 @@ yarn-error.log*
 
 # Ignore lokal generierte Autorenseiten (werden im CI-Build erzeugt)
 _pages/autor-*.markdown
+
+# Ignore locally downloaded profile images
+assets/img/profiles/
