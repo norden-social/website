@@ -1,15 +1,12 @@
 ---
-title:  "Finanzen im August, September, Oktober und November 2025"
+title:  "Finanzen im Januar 2026"
 categories: finanzen
-author: Niklas
+author: Michael
 ---
-Wir müssen besserung geloben, dass unsere Finanz-Posts immer Monatlich kommen und nicht nur auf zuruf der Community. Sorry!!
+Frohes Neues!
 
 | Monat        | Ausgaben  | Einnahmen |
 |--------------|-----------|-----------|
-| August 2025     |  252,95 € | 504,26 € |
-| September 2025    |  248,14 € |  755,81 € |
-| Oktober 2025    |  305,98 € |  349,81 € |
-| November 2025    |  270,26 € |  359,72 € |
+| Januar 2026  |  576,89 € |  626,83 € |
 
 Der Betrieb der Instanz ist bei gleichbleibenden Kosten weiterhin für mindestens 18 Monate finanziell abgesichert.
