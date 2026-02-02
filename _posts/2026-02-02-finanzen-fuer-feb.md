@@ -3,7 +3,6 @@ title:  "Finanzen im Januar 2026"
 categories: finanzen
 author: Michael
 ---
-Frohes Neues!
 
 | Monat        | Ausgaben  | Einnahmen |
 |--------------|-----------|-----------|
