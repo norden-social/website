@@ -50,3 +50,14 @@ Marius:
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
       url: "https://norden.social/@fihu"
+
+Tofuknacker:
+  name        : "Tofuknacker"
+  avatar: "https://media.norden.social/accounts/avatars/109/274/375/995/557/366/original/7895e369bec75d09.png"
+  links:
+    - label: "Beiträge"
+      icon: "fas fa-fw fa-file-alt"
+      url: "/autor/tofuknacker/"
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://norden.social/@tofuknacker"
