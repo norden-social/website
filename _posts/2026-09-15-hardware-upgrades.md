@@ -9,7 +9,7 @@ norden.social ist in den vergangenen Jahren gelegentlich auf neue Hardware umgez
 
 ## Warum so viele Umzüge? 
 
-Mit der massenhaften Abwanderung vieler Menschen von Twitter (2022) kam der damalige Server stark unter Druck. Da wir bei vaultr bereits das größte Paket gebucht hatten und wir das Setup so simpel wie möglich halten wollten, haben wir uns dann für einen Umzug auf einen Leistungsstarken dedicated Server von Hetzner entschieden. Der Umzug war vergleichsweise unkompliziert und nach kurzer Downtime konnten wir norden.social wieder mit entsprechend mehr Leistung für alle bereitstellen. 
+Mit der massenhaften Abwanderung vieler Menschen von Twitter (2022) kam der damalige Server stark unter Druck. Da wir bei vultr bereits das größte Paket gebucht hatten und wir das Setup so simpel wie möglich halten wollten, haben wir uns dann für einen Umzug auf einen Leistungsstarken dedicated Server von Hetzner entschieden. Der Umzug war vergleichsweise unkompliziert und nach kurzer Downtime konnten wir norden.social wieder mit entsprechend mehr Leistung für alle bereitstellen. 
 
 Ende 2024/Anfang 2025 sind wir dann auf einen Server mit etwas weniger Leistung/Festplattenspeicher umgezogen und haben unseren Cache und die Uploads auf einen S3 Bucket ausgelagert. Dadurch mussten wir nicht mehr Festplattenspeicher für Dateien und Datenbank bereitstellen und hatten etwas weniger administrativen Aufwand. Zusätzliche Festplatten hätten wir jederzeit für einen überschaubaren Aufpreis nachrüsten können. 
 
