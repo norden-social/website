@@ -5,7 +5,7 @@ permalink: /finanzielles/
 
 Diese Instanz zu betreiben kostet Geld. Unsere Admins und Moderator:innen erhalten zwar keine Vergütung, wir freuen uns aber dennoch über Unterstützung, um alles weitere wie Domain und Hosting bezahlen zu können.
 Wofür wir Geld ausgeben:
-- Serverkosten: ~130€ im Monat
+- Serverkosten: ~170€ im Monat
 - Mailjet: ~40€ im Monat
 - DeepL: ~60€ im Monat
 - Kontoführungsgebühren: ~17€ im Monat
